@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+
+<head>
+<title>Clearing the Skies: A Deep Network Architecture for Single-Image Rain Removal</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="style.css" type="text/css" media="screen">
+</head>
+
+<body leftmargin="40" text="#444444" link="#444444" bgcolor="#FFFFFF">
+
+
+<h2 id="title" class="auto-style1" align="center">Clearing the Skies: A Deep Network Architecture for Single-Image Rain Removal</h2>
+
+<p class="auto-style7"  align="center">
+Xueyang Fu &nbsp;&nbsp; Jiabin Huang &nbsp;&nbsp; Xinghao Ding &nbsp;&nbsp; Yinghao Liao &nbsp;&nbsp; John Paisley
+</p>
+
+<p class="auto-style7"  align="center">
+IEEE Transactions on Image Processing (TIP), 2017.
+</p>
+
+<p style="text-align: justify;line-height:25px"><strong>Abstract:</strong>  We introduce a deep network architecture called DerainNet for removing rain streaks from an image. 
+Based on the deep convolutional neural network (CNN), we directly learn the mapping relationship between rainy and clean image detail layers from data. 
+Because we do not possess the ground truth corresponding to real-world rainy images, we synthesize images with rain for training. 
+To effectively and efficiently train the network, different with common strategies that roughly increase depth or breadth of network, 
+we utilize some image processing domain knowledge to modify the objective function. Specifically, we train our DerainNet on the detail layer rather than the image domain. 
+Better results can be obtained under the same net architecture. Though DerainNet is trained on synthetic data, we still find that the learned network is very effective on 
+real-world images for testing. Moreover, we augment the CNN framework with image enhancement to significantly improve the visual results. 
+Compared with state-of-the-art single image de-rain methods, our method has better rain removal and much faster computation time after network training.
+</p>
+
+<p class="auto-style7"  align="center">
+<p><strong>Paper:</strong>
+<a  href="../paper/2017/tip/tip2017.pdf" style="color: blue">[pdf]</a>
+</p>
+
+<p class="auto-style7"  align="center">
+<p><strong>Training code:</strong>
+<a  href="../paper/2017/tip/TIP17_training_code.zip" style="color: blue">[Python code]</a> (TensorFlow)
+</p>
+
+<p class="auto-style7"  align="center">
+<p><strong>Testing code:</strong>
+<a  href="../paper/2017/tip/TIP17_testing_code.zip" style="color: blue">[Matlab code]</a> (MatConvNet)
+</p>
+
+<p class="auto-style7"  align="center">
+<p><strong>Dataset:</strong> Our rainy image dataset is expanded and can be downloaded at 
+<a  href="cvpr2017.html" style="color: blue">here</a>.
+</p>
+
+</br>
+<p>Our DerainNet is a plain CNN architecture that contains only 3 convolutional layers. The user can use <a  href="http://kaiminghe.com/eccv10/index.html" style="color: blue">Guided Filter</a> to prepare training data and then simply modify other relative codes, such as
+<a  href="http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html" style="color: blue">Caffe</a> or <a  href="https://github.com/jimmy-ren/vcnn_double-bladed" style="color: blue">Matlab</a>.
+</p>
+
+</br>
+<p><strong>Framework:</strong></a></p>
+<p class="auto-style7"  align="center"><img src="../paper/2017/tip/overview.JPG"  height="550" width="1300" ></p>
+
+
+</body>
+
+
+</html>

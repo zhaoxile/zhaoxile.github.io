@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+
+<head>
+<title>A Fusion-based Enhancing Method for Weakly Illuminated Images</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="style.css" type="text/css" media="screen">
+<style>
+img{
+    width:460px;
+    height:305px;
+}
+</style>
+</head>
+
+
+<body leftmargin="40" text="#444444" link="#444444" bgcolor="#FFFFFF">
+
+<div id="top_arrow" style="position: fixed; bottom: 10px; right: 10px;">
+<a href="#title">
+<img src="../js/top_arrow.jpg" style="border: 0pt none ; width: 26px; height: 32px;"/></a>
+</div>
+
+<h2 id="title" class="auto-style1" align="center">A Fusion-based Enhancing Method for Weakly Illuminated Images</h2>
+
+<p class="auto-style7"  align="center">
+Xueyang Fu &nbsp;&nbsp; Delu Zeng &nbsp;&nbsp; Yue Huang &nbsp;&nbsp;  Yinghao Liao &nbsp;&nbsp;  Xinghao Ding &nbsp;&nbsp;  John Paisley
+</p>
+
+<p class="auto-style7"  align="center">
+Signal Processing, 2016 
+</p>
+
+<p style="text-align: justify;line-height:25px"><strong>Abstract:</strong> We propose a straightforward and efficient fusion-based method for enhancing weakly illumination images 
+that uses several mature image processing techniques. First, we employ an illumination estimating algorithm based on morphological closing to decompose an observed image into
+ a reflectance image and an illumination image. We then derive two inputs that represent luminance-improved and contrast-enhanced versions of the first decomposed illumination 
+ using the sigmoid function and adaptive histogram equalization. Designing two weights based on these inputs, we produce an adjusted illumination by fusing the derived inputs with 
+ the corresponding weights in a multi-scale fashion. Through a proper weighting and fusion strategy, we blend the advantages of different techniques to produce the adjusted 
+ illumination. The final enhanced image is obtained by compensating the adjusted illumination back to the reflectance. Through this synthesis, the enhanced image represents 
+ a trade-off among detail enhancement, local contrast improvement and preserving the natural feel of the image. In the proposed fusion-based framework, images under different 
+ weak illumination conditions such as backlighting, non-uniform illumination and nighttime can be enhanced.
+</p>
+
+<p class="auto-style7"  align="center">
+<p><strong>Paper:</strong>
+<a  href="../paper/2016/SP/SP2016.pdf" style="color: blue">[pdf]</a>
+</p>
+
+<p class="auto-style7"  align="center">
+<p><strong>Matlab code for testing:</strong>
+<a  href="../paper/2016/SP/Matlab_code.zip" style="color: blue">[Matlab code]</a>
+</p>
+
+<p class="auto-style7"  align="center">
+<p><strong>Video results:</strong>
+<a  href="../paper/2016/SP/img/bear.mp4" style="color: blue">bear.mp4</a>&nbsp;&nbsp;  
+<a  href="../paper/2016/SP/img/driving.mp4" style="color: blue">driving.mp4</a>&nbsp;&nbsp;  
+<a  href="../paper/2016/SP/img/boat.mp4" style="color: blue">boat.mp4</a>&nbsp;&nbsp;  
+</p>
+
+<p class="auto-style7"  align="center">
+<video id='video1' width="400" height="480" controls="controls" preload ="preload">
+<source src="../paper/2016/SP/img/bear.mp4">
+Your browser does not support the video tag.
+</video>&nbsp;&nbsp;&nbsp;  
+<video  width="400" height="480" controls="controls" preload ="preload">
+<source src="../paper/2016/SP/img/driving.mp4">
+Your browser does not support the video tag.
+</video>&nbsp;&nbsp;&nbsp;   
+<video  width="400" height="480" controls="controls" preload ="preload">
+<source src="../paper/2016/SP/img/boat.mp4">
+Your browser does not support the video tag.
+</video>
+<br>
+
+</p>
+
+<table align="center" border="1" width="950" style="border-width: 0px">
+		<tr>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<font face="Arial" size="6">input images</font></td>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<font face="Arial" size="6">our results</font></td>
+		</tr>
+
+		<tr>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<img src="../paper/2016/SP/img/0.JPG"></font></td>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<img src="../paper/2016/SP/img/0_res.jpg"></font></td>
+		</tr>
+		
+		<tr>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<img src="../paper/2016/SP/img/1.jpg"></font></td>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<img src="../paper/2016/SP/img/1_res.jpg"></font></td>
+		</tr>
+		<tr>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<img src="../paper/2016/SP/img/2.jpg"></font></td>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<img src="../paper/2016/SP/img/2_res.jpg"></font></td>
+		</tr>
+		
+		<tr>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<img src="../paper/2016/SP/img/4.JPG"></font></td>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<img src="../paper/2016/SP/img/4_res.jpg"></font></td>
+		</tr>
+		
+		<tr>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<img src="../paper/2016/SP/img/5.jpg"></font></td>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<img src="../paper/2016/SP/img/5_res.jpg"></font></td>
+		</tr>
+		
+		<tr>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<img src="../paper/2016/SP/img/6.jpg"></font></td>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<img src="../paper/2016/SP/img/6_res.jpg"></font></td>
+		</tr>
+		
+		<tr>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<img src="../paper/2016/SP/img/7.jpg"></font></td>
+			<td align="center"  style="border-style: none; border-width: medium">
+			<img src="../paper/2016/SP/img/7_res.jpg"></font></td>
+		</tr>
+		</table>
+
+
+</body>
+
+
+</html>

@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+
+<head>
+<title>Removing rain from single images via a deep detail network</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="style.css" type="text/css" media="screen">
+
+<script type="text/javascript" src="../js/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="../js/jquery-ui-1.8.13.custom.min.js"></script>
+<script type="text/javascript" src="../js/jquery.beforeafter-1.4.js"></script>
+<script type="text/javascript">
+$(function(){
+$('#container').beforeAfter({imagePath:'../js/',beforeLinkText:'input',afterLinkText:'output'});
+$('#container1').beforeAfter({imagePath:'../js/',beforeLinkText:'input',afterLinkText:'output'});
+});
+</script>
+<style type="text/css">
+#container {margin-left:auto;margin-right:auto;} #container + div.balinks {margin: 0 auto;}
+#container1 {margin-left:auto;margin-right:auto;} #container1 + div.balinks {margin: 0 auto;}
+</style>
+
+</head>
+
+<body leftmargin="40" text="#444444" link="#444444" bgcolor="#FFFFFF">
+
+
+<h2 id="title" class="auto-style1" align="center">Removing rain from single images via a deep detail network</h2>
+
+<p class="auto-style7"  align="center">
+Xueyang Fu &nbsp;&nbsp; Jiabin Huang &nbsp;&nbsp; Delu Zeng &nbsp;&nbsp; Yue Huang &nbsp;&nbsp; Xinghao Ding &nbsp;&nbsp; John Paisley
+</p>
+
+<p class="auto-style7"  align="center">
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017 
+</p>
+
+<p style="text-align: justify;line-height:25px"><strong>Abstract:</strong> We propose a new deep network architecture for removing rain streaks from individual images based on the deep convolutional neural network (CNN). 
+Inspired by the deep residual network (ResNet) that simpliﬁes the learning process by changing the mapping form, we propose a deep detail network to directly reduce the mapping 
+range from input to output, which makes the learning process easier. To further improve the de-rained result, we use a priori image domain knowledge by focusing on high frequency 
+detail during training, which removes background interference and focuses the model on the structure of rain in images. This demonstrates that a deep architecture not only has 
+beneﬁts for high-level vision tasks but also can be used to solve low-level imaging problems. Though we train the network on synthetic data, we ﬁnd that the learned network 
+generalizes well to real-world test images. Experiments show that the proposed method signiﬁcantly outperforms state-of-the-art methods on both synthetic and real-world images 
+in terms of both qualitative and quantitative measures. We discuss applications of this structure to denoising and JPEG artifact reduction at the end of the paper.
+</p>
+
+<p class="auto-style7"  align="center">
+<p><strong>Paper:</strong>
+<a  href="../paper/2017/cvpr/cvpr2017.pdf" style="color: blue">[pdf]</a>
+</p>
+
+<p class="auto-style7"  align="center">
+<p><strong>Training code:</strong> 
+<a  href="../paper/2017/cvpr/CVPR17_training_code.zip" style="color: blue">[Python code]</a> (TensorFlow)
+ </p>
+
+
+<p class="auto-style7"  align="center">
+<p><strong>Testing code:</strong>
+<a  href="../paper/2017/cvpr/CVPR17_testing_code.zip" style="color: blue">[Matlab code]</a> (MatConvNet)
+</p>
+
+<p class="auto-style7"  align="center">
+<p><strong>Our rainy image dataset  (856MB):</strong>
+<a  href="https://pan.baidu.com/s/1Hvm9ctniC7PMQdKrI_lf3Q" style="color: blue">Baiduyun (百度云)</a>
+</p>
+
+</br>
+<p><strong>Framework:</strong></a></p>
+<img src="../paper/2017/cvpr/framework.JPG"  height="180px" width="1400px" ><br>
+
+</br>
+<div id="container" >
+<div><img alt="before" src="../paper/2017/cvpr/1.jpg" width="500" height="350" /></div>
+<div><img alt="after" src="../paper/2017/cvpr/1proposed.jpg" width="500" height="350" /></div>
+</div>
+
+</br>
+<div id="container1" >
+<div><img alt="before" src="../paper/2017/cvpr/2.jpg" width="500" height="350" /></div>
+<div><img alt="after" src="../paper/2017/cvpr/2proposed.jpg" width="500" height="350" /></div>
+</div>
+
+
+
+</body>
+
+
+</html>

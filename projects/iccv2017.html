@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+
+<head>
+<title>PanNet: A deep network architecture for pan-sharpening</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="style.css" type="text/css" media="screen">
+
+<script type="text/javascript" src="../js/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="../js/jquery-ui-1.8.13.custom.min.js"></script>
+<script type="text/javascript" src="../js/jquery.beforeafter-1.4.js"></script>
+<script type="text/javascript">
+$(function(){
+$('#container').beforeAfter({imagePath:'../js/',beforeLinkText:'input',afterLinkText:'output'});
+$('#container1').beforeAfter({imagePath:'../js/',beforeLinkText:'input',afterLinkText:'output'});
+});
+</script>
+<style type="text/css">
+#container {margin-left:auto;margin-right:auto;} #container + div.balinks {margin: 0 auto;}
+#container1 {margin-left:auto;margin-right:auto;} #container1 + div.balinks {margin: 0 auto;}
+</style>
+
+</head>
+
+<body leftmargin="40" text="#444444" link="#444444" bgcolor="#FFFFFF">
+
+
+<h2 id="title" class="auto-style1" align="center">PanNet: A deep network architecture for pan-sharpening</h2>
+
+<p class="auto-style7"  align="center">
+Junfeng Yang &nbsp;&nbsp; Xueyang Fu (co-first author) &nbsp;&nbsp; Yuwen Hu &nbsp;&nbsp; Yue Huang &nbsp;&nbsp; Xinghao Ding &nbsp;&nbsp; John Paisley
+</p>
+
+<p class="auto-style7"  align="center">
+IEEE International Conference on Computer Vision (ICCV), 2017 
+</p>
+
+<p style="text-align: justify;line-height:25px"><strong>Abstract:</strong> We propose a deep network architecture for the pan-sharpening problem called PanNet. 
+We incorporate domain-specific knowledge to design our PanNet architecture by focusing on the two aims of the pan-sharpening problem: spectral and spatial preservation. 
+For spectral preservation, we add up-sampled multispectral images to the network output, which directly propagates the spectral information to the reconstructed image. 
+To preserve spatial structure, we train our network parameters in the high-pass filtering domain rather than the image domain. 
+We show that the trained network generalizes well to images from different satellites without needing retraining. 
+Experiments show significant improvement over state-of-the-art methods visually and in terms of standard quality metrics. 
+</p>
+
+<p class="auto-style7"  align="center">
+<p><strong>Paper:</strong>
+<a  href="../paper/2017/iccv/YangFuetal2017.pdf" style="color: blue">[pdf]</a>
+</p>
+
+<p class="auto-style7"  align="center">
+<p><strong>Training code:</strong> 
+<a  href="../paper/2017/iccv/ICCV17_training_code.zip" style="color: blue">[Python code]</a> (TensorFlow)
+ </p>
+
+</br>
+<p><strong>Framework:</strong></a></p>
+<img src="../paper/2017/iccv/frame.jpg"  height="450px" width="1400px" ><br>
+
+
+
+</body>
+
+
+</html>
