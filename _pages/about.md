@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-
+<p style="font-size: 1.1em; line-height: 1.6;">
 I am a [Professor](http://www.math.uestc.edu.cn/info/1081/2025.htm) in the School of Mathematical Science at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).<br>
+</p>
 
 In 2012, I received my Ph.D. in Applied Mathematics from UESTC, advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm).<br>
 
@@ -48,7 +49,7 @@ My research interests are artificial intelligence and scientific computing.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="/newpage/images/tnntoolbox.png" width="250"></a><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YisiLuo/LRTFR"><img src="/newpage/images/ConTensortoolbox.png" width="250"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox"><img src="/newpage/images/irregulartools.png" width="250"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox"><img src="/newpage/images/irregulartools.png" width="250"></a>
   
 <!-- 空一行，再写 script -->
 <!-- 访问量地图脚本 -->
