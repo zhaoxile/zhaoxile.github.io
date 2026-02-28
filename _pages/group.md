@@ -7,7 +7,7 @@ author_profile: true  # 确保开启作者信息栏
 # 🌱 Group
 - Completed PhD<br>
   2021: Yun-Yang Liu (Work at Anhui University)<br>
-  2022: Ben-Zheng Li (work at Central China Normal University)<br>
+  2022: Ben-Zheng Li (Work at Central China Normal University)<br>
 - Completed Master<br>
   2016: Ye-Tao Wang, Jing-Hua Yang<br>
   2017: Lin Guo, Wen-Hao Xu<br>
