@@ -210,19 +210,22 @@ author_profile: true
   Ye-Tao Wang, **Xi-Le Zhao**, Tai-Xiang Jiang, Liang-Jian Deng, Yi Chang, Ting-Zhu Huang<br>
    **_IEEE Trans. Neural Netw. Learn. Syst._** [[TensorFlow Code]](https://github.com/zhaoxile/KGCNN)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/kgcnn.png" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/ctlrtc.png" width="350">
 - Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform<br>
   Jian-Li Wang, Ting-Zhu Huang, **Xi-Le Zhao**, Tai-Xiang Jiang, Michael K. Ng<br>
    **_IEEE Trans. Image Process._**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/fctn.png" width="350">
 - Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion<br>
   Yu-Bang Zheng, Ting-Zhu Huang, **Xi-Le Zhao**, Qibin Zhao, Tai-Xiang Jiang<br>
    **_AAAI Conference on Artificial Intelligence (AAAI)_** [[MATLAB Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/tensrde.png" width="350">
 - A Tensor Subspace Representation-Based Method for Hyperspectral Image Denoising<br>
   Jie Lin, Ting-Zhu Huang, **Xi-Le Zhao**, Tai-Xiang Jiang, Lina Zhuang<br>
    **_IEEE Trans. Geosci. Remote Sens._**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/scll1.png" width="350">
 - Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling<br>
   Meng Ding, Xiao Fu, Ting-Zhu Huang, Jun Wang, **Xi-Le Zhao**<br>
    **_IEEE Journal of Selected Topics in Signal Processing_**
