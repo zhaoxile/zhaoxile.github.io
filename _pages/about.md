@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<p style="font-size: 1.1em; line-height: 1.6;">
+
 I am a [Professor](http://www.math.uestc.edu.cn/info/1081/2025.htm) in the School of Mathematical Science at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).<br>
-</p>
 
 In 2012, I received my Ph.D. in Applied Mathematics from UESTC, advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm).<br>
 
