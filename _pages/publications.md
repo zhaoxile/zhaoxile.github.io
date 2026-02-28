@@ -243,10 +243,6 @@ author_profile: true
   Yu-Bang Zheng, Ting-Zhu Huang, Teng-Yu Ji, **Xi-Le Zhao**, Tai-Xiang Jiang, Tian-Hui Ma<br>
    **_Applied Mathematical Modelling_** [[MATLAB Code]](https://github.com/zhaoxile/Low-rank-tensor-completion-via-smooth-matrix-factorization)
 
-- A Variational Model with Hybrid Hyper-Laplacian Priors for Retinex<br>
-  Ming-Hui Cheng, Ting-Zhu Huang, **Xi-Le Zhao**, Tian-Hui Ma, Jie Huang<br>
-   **_Applied Mathematical Modelling_**
-
 ## 2018
 
 - Hyperspectral Image Restoration via Total Variation Regularized Low-Rank Tensor Decomposition  <span style="color:blue">(ESI Highly Cited Paper)</span><br>
