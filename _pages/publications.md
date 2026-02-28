@@ -99,96 +99,118 @@ author_profile: true
   Yu-Bang Zheng, **Xi-Le Zhao**, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang<br>
    **_CVPR_**
 
-- High-Order Tensor Singular Value Decomposition from Basic Element Perspective<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/metnn.png" width="350">
+- Revisiting High-Order Tensor Singular Value Decomposition from Basic Element Perspective<br>
   Sheng Liu, **Xi-Le Zhao**, Jin-Song Leng, Ben-Zheng Li, Jing-Hua Yang, Xin-Yu Chen<br>
    **_IEEE Trans. Signal Process._** [[MATLAB Code]](https://github.com/liu-sheng/code_METNN)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/lta-tsvd.png" width="350">
 - Learnable Transform-Assisted Tensor Decomposition for Spatial-Irregular Multidimensional Data Recovery<br>
-  Yu-Chun Miao, **Xi-Le Zhao**, Jian-Li Wang, Xiao Fu, Yao Wang<br>
+  Hao Zhang, Ting-Zhu Huang, **Xi-Le Zhao**, Shu-Qin Zhang, Jin-Yu Xie, Tai-Xiang Jiang, Michael K. Ng<br>
    **_IEEE Trans. Comput. Imaging_**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/factordvp-t.png" width="350">
 - Snapshot Compressive Imaging Using Domain-Factorized Deep Video Prior<br>
-  Hao Zhang, Ting-Zhu Huang, **Xi-Le Zhao**, Shu-Qin Zhang, Jin-Yu Xie, Tai-Xiang Jiang, Michael K. Ng<br>
+  Yu-Chun Miao, **Xi-Le Zhao**, Jian-Li Wang, Xiao Fu, Yao Wang<br>
    **_ACM Trans. Knowl. Discov. Data._**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/gtd.png" width="350">
 - The Generalized Tensor Decomposition with Heterogeneous Tensor Product for Third-Order Tensors<br>
   Yun-Yang Liu, **Xi-Le Zhao**, Meng Ding, Jianjun Wang , Tai-Xiang Jiang , Ting-Zhu Huang<br>
    **_J. Sci. Comput._**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/kbf-btd.png" width="350">
 - A Fast Algorithm for Rank-(L, M, N) Block Term Decomposition of Multi-Dimensional Data<br>
   Hao Zhang, Ting-Zhu Huang, **Xi-Le Zhao**, Mao-Lin Che<br>
    **_J. Sci. Comput._**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/htmf.png" width="350">
 - Forecasting Urban Traffic States with Sparse Data Using Hankel Temporal Matrix Factorization<br>
   Xin-Yu Chen, **Xi-Le Zhao**, Chuan Chen<br>
    **_INFORMS Journal on Computing_**
 
 ## 2023
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/gtnn.png" width="350">
 - A Learnable Group-Tube Transform Induced Tensor Nuclear Norm and Its Application for Tensor Completion<br>
   Ben-Zheng Li, **Xi-Le Zhao**, Xiong-Jun Zhang, Teng-Yu Ji, Xin-Yu Chen, Michael K. Ng<br>
    **_SIAM Journal on Imaging Sciences_**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/sstc-cr.png" width="350">
 - Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal<br>
   Wen-Jie Zheng, **Xi-Le Zhao**, Yu-Bang Zheng, Jie Lin, Lina Zhuang, Ting-Zhu Huang<br>
    **_ISPRS Journal of Photogrammetry and Remote Sensing_** [[MATLAB Code]](https://github.com/zhaoxile/SSTC_CR)
-  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/dtnn.png" width="350">
 - Dictionary Learning with Low-Rank Coding Coefficients for Tensor Completion<br>
   Tai-Xiang Jiang, **Xi-Le Zhao**, Hao Zhang, Michael K. Ng<br>
    **_IEEE Trans. Neural Netw. Learn. Syst._**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/h2tf.png" width="350">
 - H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization<br>
   Jia-Yi Li, Jin-Yu Xie, Yi-Si Luo, **Xi-Le Zhao**, Jian-Li Wang<br>
    **_IEEE Geosci. Remote. Sens. Lett._**
   
 ## 2022
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/hlrtf.png" width="350">
 - HLRTF: Hierarchical Low-Rank Tensor Factorization for Inverse Problems in Multi-Dimensional Imaging<br>
   Yi-Si Luo, **Xi-Le Zhao**, De-Yu Meng, Tai-Xiang Jiang<br>
    **_CVPR_** [[Pytorch Code]](https://github.com/YisiLuo/HLRTF)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/uconnet.png" width="350">
 - UConNet: Unsupervised Controllable Network for Image and Video Deraining<br>
   Jun-Hao Zhuang, Yisi Luo, **Xi-Le Zhao**, Tai-Xiang Jiang, Bichuan Guo<br>
    **_ACM International Conference on Multimedia_**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/nttnn.png" width="350">
 - Nonlinear Transform Based Tensor Nuclear Norm for Low-Rank Tensor Completion<br>
   Ben-Zheng Li, **Xi-Le Zhao**, Teng-Yu Ji, Xiong-Jun Zhang, Ting-Zhu Huang<br>
    **_J. Sci. Comput._** [[MATLAB Code]](https://github.com/zhaoxile/Trans-TNN-Toolbox)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/t-fctn.png" width="350">
 - Multi-Dimensional Image Recovery via Fully-Connected Tensor Network Decomposition Under the Learnable Transforms<br>
   Cheng-Yao Lyu, **Xi-Le Zhao**, Ben-Zheng Li, Hao Zhang, Ting-Zhu Huang<br>
    **_J. Sci. Comput._**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/glon.png" width="350">
 - Tensor Completion via Complementary Global, Local, and Nonlocal Priors  <span style="color:blue">(ESI Highly Cited Paper)</span><br>
   **Xi-Le Zhao**, Jing-Hua Yang, Tian-Hui Ma, Tai-Xiang Jiang, Michael K. Ng, Ting-Zhu Huang<br>
    **_IEEE Trans. Image Process._** [[MATLAB Code]](https://github.com/Jinghua-Yang/Code_GLON)
-  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/s2ntnn-tv.png" width="350">
 - Self-Supervised Nonlinear Transform-Based Tensor Nuclear Norm for Multi-Dimensional Image Recovery<br>
   Yi-Si Luo, **Xi-Le Zhao**, Tai-Xiang Jiang, Yi Chang, Michael K. Ng, Chao Li<br>
    **_IEEE Trans. Image Process._**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/msf.png" width="350">
 - Multiscale Feature Tensor Train Rank Minimization for Multidimensional Image Recovery<br>
   Hao Zhang, **Xi-Le Zhao**, Tai-Xiang Jiang, Michael K. Ng, Ting-Zhu Huang<br>
    **_IEEE Trans. Cybernetics_**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/lmm.png" width="350">
 - Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors<br>
   Yu-Chun Miao, **Xi-Le Zhao**, Xiao Fu, Jian-Li Wang, Yu-Bang Zheng<br>
    **_IEEE Trans. Geosci. Remote Sens._**
-
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/rtcr.png" width="350">
 - Robust Thick Cloud Removal for Multi-Temporal Remote Sensing Images Using Coupled Tensor Factorization<br>
   Jie Lin, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Qiang Zhang, Qiangqiang Yuan<br>
    **_IEEE Trans. Geosci. Remote Sens._**
   
 ## 2021
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/cslrt.png" width="350">
 - Tensor Completion via Collaborative Sparse and Low-Rank Transforms<br>
   Ben-Zheng Li, **Xi-Le Zhao**, Jian-Li Wang, Yong Chen, Tai-Xiang Jiang, Jun Liu<br>
    **_IEEE Trans. Comput. Imaging_**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/kgcnn.png" width="350">
 - Rain Streaks Removal for Single Image via Kernel-Guided Convolutional Neural Network<br>
   Ye-Tao Wang, **Xi-Le Zhao**, Tai-Xiang Jiang, Liang-Jian Deng, Yi Chang, Ting-Zhu Huang<br>
    **_IEEE Trans. Neural Netw. Learn. Syst._** [[TensorFlow Code]](https://github.com/zhaoxile/KGCNN)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/kgcnn.png" width="350">
 - Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform<br>
   Jian-Li Wang, Ting-Zhu Huang, **Xi-Le Zhao**, Tai-Xiang Jiang, Michael K. Ng<br>
    **_IEEE Trans. Image Process._**
