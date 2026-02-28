@@ -9,7 +9,7 @@
 
 main:
   - title: "Selected Publications"
-    url: /publications/
+    url: /selected-publications/
 
   - title: "Group"
     url: /group/    
