@@ -8,61 +8,66 @@ author_profile: true
 
 ## Surveys
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/continous-survey.png" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/continous-survey.png" width="350">
 - Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives<br>
   Yi-Si Luo, **Xi-Le Zhao**, De-Yu Meng<br>
   **_ArXiv:2505.15222_**
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/fctn-survey.jpg" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/fctn-survey.jpg" width="350">
 - Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects<br>
   Yu-Bang Zheng, **Xi-Le Zhao**, Heng-Chao Li, Chao Li, Ting-Zhu Huang, Qibin Zhao<br>
    **_Neural Networks_**
 
 ## 2026
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/guass.png" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/guass.png" width="350">
 - Gaussian Splatting-based Low-rank Tensor Representation for Multi-Dimensional Image Recovery<br>
   Yi-Ming Zeng, **Xi-Le Zhao**, Wei-Hao Wu, Teng-Yu Ji<br>
    **_CVPR_**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/ntnn.png" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/ntnn.png" width="350">
 - Importance-Aware Nonlocal Tensor Nuclear Norm for High-Dimensional Image Recovery<br>
   Ben-Zheng Li, **Xi-Le Zhao**, Hao Zhang, De-Lin Chu<br>
    **_Inverse Problems_**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/tilr-cr.png" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/tilr-cr.png" width="350">
 - Topology-Induced Low-Rank Tensor Representation for Spatio-Temporal Traffic Data Imputation<br>
   Zhi-Long Han, Ting-Zhu Huang, **Xi-Le Zhao**, Ben-Zheng Li, Meng Ding<br>
    **_IEEE Trans. Knowledge Data Eng._**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/dbtd.png" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/dbtd.png" width="350">
 - Dictionary-Based Block Term Decomposition for Third-Order Tensors<br>
   Ben-Zheng Li, **Xi-Le Zhao**, Hao Zhang, De-Lin Chu<br>
    **_SIAM Journal on Imaging Sciences_**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/dbtd.png" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/utcr2.png" width="350">
 - A Unified Sentinel-2 Imagery Thick Cloud Removal and Rescaling Framework from A Continuous Perspective<br>
   Wei-Hao Wu, Ting-Zhu Huang, **Xi-Le Zhao**, Xingwen Quan, Yu-Bang Zheng, Deyu Meng<br>
    **_IEEE Trans. Geosci. Remote Sens._**
   
 ## 2025
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/crnl.png" width="350">
 - Revisiting Nonlocal Self-Similarity from Continuous Representation<br>
   Yi-Si Luo, **Xi-Le Zhao**, De-Yu Meng<br>
    **_IEEE Trans. Pattern Anal. Mach. Intell._** [[Pytorch Code]](https://github.com/YisiLuo/CRNL)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/ft-svd.png" width="350">
 - Functional Tensor Singular Value Decomposition<br>
   Chuan Wang, **Xi-Le Zhao**, Yu-Bang Zheng, Ben-Zheng Li, Michael K. Ng<br>
    **_SIAM Journal on Scientific Computing_**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/neurtv.png" width="350">
 - NeurTV: Total Variation on the Neural Domain<br>
   Yi-Si Luo, **Xi-Le Zhao**, Kai Ye, De-Yu Meng<br>
    **_SIAM Journal on Imaging Sciences_** [[Pytorch Code]](https://github.com/YisiLuo/NeurTV)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/fainr.png" width="350">
 - Frequency-Aware Implicit Neural Representation for Multi-Dimensional Data Recovery<br>
   Ting-Wei Zhou, **Xi-Le Zhao**, Wei-Hao Wu, Jian-Li Wang, Yi-Si Luo<br>
    **_IEEE Trans. Circ. Syst. Video Tech._**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/dtr.png" width="350">
 - DTR: A Unified Deep Tensor Representation Framework for Multimedia Data Recovery<br>
   Ting-Wei Zhou, **Xi-Le Zhao**, Jian-Li Wang, Yi-Si Luo, Min Wang, Xiao-Xuan Bai, Hong Yan<br>
    **_IEEE Trans. Multimedia_**
