@@ -17,9 +17,11 @@ redirect_from:
 
 - From 2016 to 2017, I worked with [Prof. Jose M. Bioucas Dias](http://www.lx.it.pt/~bioucas/) as a visiting scholar at Instituto Superior Técnico.<br>
 
-📢 <span style="color:blue">**Join Us: My research interests are artificial intelligence and scientific computing. Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
+🔎 My research interests are artificial intelligence and scientific computing.
 
-🎓 Google Scholar: [Full Publications (9,000+ citations)](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en); 🏫 [学校主页](https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm)
+📢 <span style="color:blue">**Join Us: Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
+
+🎓 Google Scholar: [Full Publications (9,000+ citations)](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en); 🏫 [Official Faculty Homepage](https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm)
 
 # 🔔 News
 
@@ -35,7 +37,7 @@ redirect_from:
 </div>
 </div>
 -->
-- *2026.02* ：&nbsp; One paper is accepted by _**SCIENCE CHINA Information Sciences**_. 
+- *2026.02* : &nbsp; One paper is accepted by _**SCIENCE CHINA Information Sciences**_. 
 - *2026.02* : &nbsp; One paper is accepted by _**CVPR**_. 
 - *2025.11* : &nbsp; One paper is accepted by _**Inverse Problems**_. 
 - *2025.06* : &nbsp; One paper is accepted by _**SIAM Journal on Imaging Sciences**_. 
