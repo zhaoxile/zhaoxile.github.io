@@ -1,7 +1,10 @@
 ---
 title: "Selected Publications"
-permalink: /publications/
-layout: page  # 关键：用 page 布局，而不是默认的 publications 布局
+permalink: /selected-publications/
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
 
 # 📄 Selected Publications
