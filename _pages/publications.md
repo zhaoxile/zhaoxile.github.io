@@ -2,7 +2,6 @@
 title: "Selected Publications"
 permalink: /selected-publications/
 author_profile: true
-layout: single  # 关键：用 page 布局，而不是默认的 publications 布局
 ---
 
 # 📄 Selected Publications
