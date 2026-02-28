@@ -35,6 +35,7 @@ redirect_from:
 </div>
 </div>
 -->
+- *2026.02* ：&nbsp; One paper is accepted by _**SCIENCE CHINA Information Sciences**_. 
 - *2026.02* : &nbsp; One paper is accepted by _**CVPR**_. 
 - *2025.11* : &nbsp; One paper is accepted by _**Inverse Problems**_. 
 - *2025.06* : &nbsp; One paper is accepted by _**SIAM Journal on Imaging Sciences**_. 
