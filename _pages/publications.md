@@ -11,7 +11,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/continous-survey.png" width="350">
 - Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives<br>
   Yi-Si Luo, **Xi-Le Zhao**, De-Yu Meng<br>
-  **_ArXiv:2505.15222_**
+  **_SCIENCE CHINA Information Sciences_**
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/fctn-survey.jpg" width="350">
 - Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects<br>
@@ -72,24 +72,29 @@ author_profile: true
   Ting-Wei Zhou, **Xi-Le Zhao**, Jian-Li Wang, Yi-Si Luo, Min Wang, Xiao-Xuan Bai, Hong Yan<br>
    **_IEEE Trans. Multimedia_**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/stinr.png" width="350">
 - STINR: Deciphering Spatial Transcriptomics via Implicit Neural Representation<br>
   Yi-Si Luo, **Xi-Le Zhao**, Kai Ye, De-Yu Meng<br>
    **_CVPR_** [[Pytorch Code]](https://github.com/YisiLuo/STINR)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/sitd.png" width="350">
 - Slice-Wise Irregular Tensor Decomposition and Its Application<br>
   Hao Zhang, Ting-Zhu Huang, **Xi-Le Zhao**, Lu-Bin Cui, Michael K. Ng<br>
    **_J. Sci. Comput._**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/notmf.png" width="350">
 - Forecasting Sparse Movement Speed of Urban Road Networks with Nonstationary Temporal Matrix Factorization<br>
   Xinyu Chen, Chengyuan Zhang, **Xi-Le Zhao**, Nicolas Saunier， Lijun Sun<br>
    **_Transportation Science_**
 
 ## 2024
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/lrtfr.png" width="350">
 - Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery<br>
   Yi-Si Luo, **Xi-Le Zhao**, Zhe-Min Li, Michael K. Ng, De-Yu Meng<br>
    **_IEEE Trans. Pattern Anal. Mach. Intell._** [[Pytorch Code]](https://github.com/YisiLuo/Continuous-Tensor-Toolbox)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/svdinstn.png" width="350">
 - SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective<br>
   Yu-Bang Zheng, **Xi-Le Zhao**, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang<br>
    **_CVPR_**
