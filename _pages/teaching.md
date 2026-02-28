@@ -5,12 +5,14 @@ author_profile: true  # 确保开启作者信息栏
 ---
 
 # 📖 Teaching
+## 人工智能中的数学：基础与实验 (ECE领军计划课程)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://item.jd.com/10211512016165.html"><img src="/newpage2/images/ai.png" width="250"></a>
 
-## 数值分析(研究生课程)
+## 数值分析 (研究生课程)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/nab.png" width="250">
 [[Chap. 1]](https://zhaoxile.github.io/paper/1.pdf)  [[Chap. 2]](https://zhaoxile.github.io/paper/2.pdf)
 
-## 数字图像处理(本科挑战性学习课程)
+## 数字图像处理 (本科挑战性学习课程)
 
 ### 数字图像处理课程成果展示
 - 李晓彤 (北京大学博士, “挑战杯”四川省大学生课外学术科技作品竞赛二等奖、Neurocomputing)   
