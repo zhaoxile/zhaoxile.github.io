@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+# 🙋‍♂️ Experiences
 
-I am a [Professor](http://www.math.uestc.edu.cn/info/1081/2025.htm) in the School of Mathematical Science at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).<br>
+- I am a [Professor](http://www.math.uestc.edu.cn/info/1081/2025.htm) in the School of Mathematical Science at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).<br>
 
-In 2012, I received my Ph.D. in Applied Mathematics from UESTC, advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm).<br>
+- In 2012, I received my Ph.D. in Applied Mathematics from UESTC, advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm).<br>
 
-From 2013 to 2014, I worked with [Prof. Michael Ng](https://hkumath.hku.hk/~mng/) as a post-doc at Hong Kong Baptist University.<br>
+- From 2013 to 2014, I worked with [Prof. Michael Ng](https://hkumath.hku.hk/~mng/) as a post-doc at Hong Kong Baptist University.<br>
 
-From 2016 to 2017, I worked with [Prof. Jose M. Bioucas Dias](http://www.lx.it.pt/~bioucas/) as a visiting scholar at Instituto Superior Técnico.<br>
+- From 2016 to 2017, I worked with [Prof. Jose M. Bioucas Dias](http://www.lx.it.pt/~bioucas/) as a visiting scholar at Instituto Superior Técnico.<br>
 
 My research interests are artificial intelligence and scientific computing.
 
