@@ -9,14 +9,10 @@ redirect_from:
 
 # 👤 About Me
 
-I am a [Professor](http://www.math.uestc.edu.cn/info/1081/2025.htm) in the School of Mathematical Science at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).
-
-In 2012, I received my Ph.D. in Applied Mathematics from UESTC, advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm).
-
-From 2013 to 2014, I worked with [Prof. Michael Ng](https://hkumath.hku.hk/~mng/) as a post-doc at Hong Kong Baptist University.
-
-From 2016 to 2017, I worked with [Prof. Jose M. Bioucas Dias](http://www.lx.it.pt/~bioucas/) as a visiting scholar at Instituto Superior Técnico.
-
+I am a [Professor](http://www.math.uestc.edu.cn/info/1081/2025.htm) in the School of Mathematical Science at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).<br>
+In 2012, I received my Ph.D. in Applied Mathematics from UESTC, advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm).<br>
+From 2013 to 2014, I worked with [Prof. Michael Ng](https://hkumath.hku.hk/~mng/) as a post-doc at Hong Kong Baptist University.<br>
+From 2016 to 2017, I worked with [Prof. Jose M. Bioucas Dias](http://www.lx.it.pt/~bioucas/) as a visiting scholar at Instituto Superior Técnico.<br>
 My research interests are artificial intelligence and scientific computing.
 
 📢 <span style="color:blue">**Join Us: Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
@@ -47,10 +43,8 @@ My research interests are artificial intelligence and scientific computing.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TenNet_ToolBox"><img src="/newpage/images/tennettoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="/newpage/images/tnntoolbox.png" width="250"></a><br>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YisiLuo/LRTFR"><img src="/newpage/images/ConTensortoolbox.png" width="250"></a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox"><img src="/newpage/images/irregulartools.png" width="250"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox"><img src="/newpage/images/irregulartools.png" width="250"></a>
   
 <!-- 空一行，再写 script -->
 <!-- 访问量地图脚本 -->
