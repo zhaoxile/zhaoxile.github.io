@@ -119,7 +119,7 @@ author_profile: true
   Yun-Yang Liu, **Xi-Le Zhao**, Meng Ding, Jianjun Wang , Tai-Xiang Jiang , Ting-Zhu Huang<br>
    **_J. Sci. Comput._**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/kbf-btd.png" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/kpf-btd.png" width="350">
 - A Fast Algorithm for Rank-(L, M, N) Block Term Decomposition of Multi-Dimensional Data<br>
   Hao Zhang, Ting-Zhu Huang, **Xi-Le Zhao**, Mao-Lin Che<br>
    **_J. Sci. Comput._**
@@ -210,7 +210,7 @@ author_profile: true
   Ye-Tao Wang, **Xi-Le Zhao**, Tai-Xiang Jiang, Liang-Jian Deng, Yi Chang, Ting-Zhu Huang<br>
    **_IEEE Trans. Neural Netw. Learn. Syst._** [[TensorFlow Code]](https://github.com/zhaoxile/KGCNN)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/ctlrtc.png" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/ct-lrtc.png" width="350">
 - Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform<br>
   Jian-Li Wang, Ting-Zhu Huang, **Xi-Le Zhao**, Tai-Xiang Jiang, Michael K. Ng<br>
    **_IEEE Trans. Image Process._**
@@ -232,7 +232,7 @@ author_profile: true
 
 ## 2020
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/td3lrtc.png" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/dp3lrtc.png" width="350">
 - Deep Plug-and-Play Prior for Low-Rank Tensor Completion<br>
   **Xi-Le Zhao**, Wen-Hao Xu, Tai-Xiang Jiang, Yao Wang, Michael K. Ng<br>
    **_Neurocomputing_** [[MATLAB Code]](https://github.com/TaiXiangJiang/Deep-Plug-and-Play-Prior-for-Low-Rank-Tensor-Completion)
@@ -274,7 +274,7 @@ author_profile: true
     
 ## 2019
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/fasrderain.png" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/fastderain.png" width="350">
 - FastDeRain: A Novel Video Rain Streak Removal Method Using Directional Gradient Priors<br>
   Tai-Xiang Jiang, Ting-Zhu Huang, **Xi-Le Zhao**, Liang-Jian Deng,Yao Wang<br>
    **_IEEE Trans. Image Process._** [[MATLAB Code]](https://github.com/zhaoxile/FastDeRain_-A-Novel-Video-Rain-Streak-Removal-Method-Using-Directional-Gradient-Priors)
@@ -341,7 +341,7 @@ author_profile: true
   **Xi-Le Zhao**, Wei Wang, Tie-Yong Zeng, Ting-Zhu Huang, Michael K. Ng<br>
    **_SIAM Journal on Scientific Computing_**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/debkurring.png" width="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/deblurring.png" width="350">
 - Deblurring and Sparse Unmixing for Hyperspectral Images</span><br>
   **Xi-Le Zhao**, Fan Wang, Ting-Zhu Huang, Michael K. Ng, Robert J. Plemmons<br>
    **_IEEE Trans. Geosci. Remote Sens._** [[MATLAB Code]](https://github.com/zhaoxile/Deblurring-and-sparse-unmixing-for-hyperspectral-images)
