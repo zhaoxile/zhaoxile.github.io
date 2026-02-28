@@ -232,96 +232,116 @@ author_profile: true
 
 ## 2020
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/td3lrtc.png" width="350">
 - Deep Plug-and-Play Prior for Low-Rank Tensor Completion<br>
   **Xi-Le Zhao**, Wen-Hao Xu, Tai-Xiang Jiang, Yao Wang, Michael K. Ng<br>
    **_Neurocomputing_** [[MATLAB Code]](https://github.com/TaiXiangJiang/Deep-Plug-and-Play-Prior-for-Low-Rank-Tensor-Completion)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/ftnn.png" width="350">
 - Framelet Representation of Tensor Nuclear Norm for Third-Order Tensor Completion<br>
   Tai-Xiang Jiang, Michael K. Ng, **Xi-Le Zhao**, Ting-Zhu Huang<br>
    **_IEEE Trans. Image Process._** [[MATLAB Code]](https://github.com/TaiXiangJiang/Framelet-TNN)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/3dtnn.png" width="350">
 - Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization  <span style="color:blue">(ESI Highly Cited Paper)</span><br>
   Yu-Bang Zheng, Ting-Zhu Huang, **Xi-Le Zhao**, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji<br>
    **_IEEE Trans. Geosci. Remote Sens._** [[MATLAB Code]](https://github.com/zhaoxile/Mixed-Noise-Removal-in-Hyperspectral-Image-via-Low-Fibered-Rank-Regularization)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/lrtf-dfr.png" width="350">
 - Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image<br>
   Yu-Bang Zheng, Ting-Zhu Huang, **Xi-Le Zhao**, Yong Chen, Wei He<br>
    **_IEEE Trans. Geosci. Remote Sens._** [[MATLAB Code]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/radio.png" width="350">
 - Spectrum Cartography via Coupled Block-Term Tensor Decomposition<br>
   Guoyong Zhang, Xiao Fu, Jun Wang, **Xi-Le Zhao**, Mingyi Hong<br>
    **_IEEE Trans. Signal Process._**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/pstnn.png" width="350">
 - Multi-Dimensional Imaging Data Recovery via Minimizing the Partial Sum of Tubal Nuclear Norm<br>
   Tai-Xiang Jiang, Ting-Zhu Huang, **Xi-Le Zhao**, Liang-Jian Deng<br>
    **_J. Comput. Appl. Math._** [[MATLAB Code]](https://github.com/zhaoxile/Multi-dimensional-imaging-data-recovery-via-minimizing-the-partial-sum-of-tubal-nuclear-norm)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/tctf-tvt.png" width="350">
 - Tensor Factorization with Total Variation and Tikhonov Regularization for Low-Rank Tensor Completion in Imaging Data<br>
   Xue-Lei Lin, Michael K. Ng, **Xi-Le Zhao**<br>
    **_Journal of Mathematical Imaging and Vision_** [[MATLAB Code]](https://github.com/zhaoxile/Tensor-Factorization-with-Total-Variation-and-Tikhonov-Regularization-for-Low-Rank-Tensor-Completion)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/wstnn.png" width="350">
 - Tensor N-Tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery<br>
   Yu-Bang Zheng, Ting-Zhu Huang, **Xi-Le Zhao**, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma<br>
    **_Information Science_** [[MATLAB Code]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
     
 ## 2019
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/fasrderain.png" width="350">
 - FastDeRain: A Novel Video Rain Streak Removal Method Using Directional Gradient Priors<br>
   Tai-Xiang Jiang, Ting-Zhu Huang, **Xi-Le Zhao**, Liang-Jian Deng,Yao Wang<br>
    **_IEEE Trans. Image Process._** [[MATLAB Code]](https://github.com/zhaoxile/FastDeRain_-A-Novel-Video-Rain-Streak-Removal-Method-Using-Directional-Gradient-Priors)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/mf-tttv.png" width="350">
 - Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation<br>
   Meng Ding, Ting-Zhu Huang，Teng-Yu Ji，**Xi-Le Zhao**, Jing-Hua Yang<br>
    **_J. Sci. Comput._** [[MATLAB Code]](https://github.com/zhaoxile/Low-Rank-Tensor-Completion-Using-Matrix-Factorization-Based-on-Tensor-Train-Rank-and-Total-Variation)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/smf-lrtc.png" width="350">
 - Low-Rank Tensor Completion via Smooth Matrix Factorization<br>
   Yu-Bang Zheng, Ting-Zhu Huang, Teng-Yu Ji, **Xi-Le Zhao**, Tai-Xiang Jiang, Tian-Hui Ma<br>
    **_Applied Mathematical Modelling_** [[MATLAB Code]](https://github.com/zhaoxile/Low-rank-tensor-completion-via-smooth-matrix-factorization)
 
 ## 2018
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/lrtdtv.png" width="350">
 - Hyperspectral Image Restoration via Total Variation Regularized Low-Rank Tensor Decomposition  <span style="color:blue">(ESI Highly Cited Paper)</span><br>
   Yao Wang, Jiangjun Peng, Qian Zhao, Yee Leung, **Xi-Le Zhao**, Deyu Meng<br>
    **_IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_** [[MATLAB Code]](https://github.com/zhaoxile/Hyperspectral-Image-Restoration-via-Total-Variation-Regularized-Low-rank-Tensor-Decomposition)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/framelet.png" width="350">
 - Matrix Factorization for Low-Rank Tensor Completion Using Framelet Prior<br>
   Tai-Xiang Jiang, Ting-Zhu Huang, **Xi-Le Zhao**, Teng-Yu Ji, Liang-Jian Deng<br>
    **_Information Sciences_**
   
 ## 2017
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/rain.png" width="350">
 - A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors<br>
   Tai-Xiang Jiang, Ting-Zhu Huang, **Xi-Le Zhao**, Liang-Jian Deng, Yao Wang<br>
    **_CVPR_** [[MATLAB Code]](https://github.com/zhaoxile/FastDeRain_-A-Novel-Video-Rain-Streak-Removal-Method-Using-Directional-Gradient-Priors)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/logdet.png" width="350">
 - A Non-Convex Tensor Rank Approximation for Tensor Completion<br>
   Teng-Yu Ji, Ting-Zhu Huang, **Xi-Le Zhao**, Tian-Hui Ma, Liang-Jian Deng<br>
    **_Applied Mathematical Modelling_** [[MATLAB Code]](https://github.com/zhaoxile/logTucker)
 
 ## 2016
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/bcd.png" width="350">
 - Tensor Completion Using Total Variation and Low-Rank Matrix Factorization<br>
   Teng-Yu Ji, Ting-Zhu Huang, **Xi-Le Zhao**, Tian-Hui Ma, Gang Liu<br>
    **_Information Sciences_** [[MATLAB Code]](https://github.com/zhaoxile/Tensor-completion-using-total-variation-and-low-rank-matrix-factorization)
 
 ## 2015
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/tvnls.png" width="350">
 - Alternating Direction Method of Multipliers for Nonlinear Image Restoration Problems<br>
   Chuan Chen, Michael K. Ng, **Xi-Le Zhao**<br>
    **_IEEE Trans. Image Process._**
 
 ## 2014
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/convex.png" width="350">
 - A New Convex Optimization Model for Multiplicative Noise and Blur Removal  <span style="color:blue">(ESI Highly Cited Paper)</span><br>
   **Xi-Le Zhao**, Fan Wang, Michael K. Ng<br>
    **_SIAM Journal on Imaging Sciences_** [[MATLAB Code]](https://github.com/zhaoxile/A-New-Convex-Optimization-Model-for-Multiplicative-Noise-and-Blur-Removal)
 
 ## 2013
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/tv.png" width="350">
 - Total Variation Structured Total Least Squares Method for Image Restoration</span><br>
   **Xi-Le Zhao**, Wei Wang, Tie-Yong Zeng, Ting-Zhu Huang, Michael K. Ng<br>
    **_SIAM Journal on Scientific Computing_**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/debkurring.png" width="350">
 - Deblurring and Sparse Unmixing for Hyperspectral Images</span><br>
   **Xi-Le Zhao**, Fan Wang, Ting-Zhu Huang, Michael K. Ng, Robert J. Plemmons<br>
    **_IEEE Trans. Geosci. Remote Sens._** [[MATLAB Code]](https://github.com/zhaoxile/Deblurring-and-sparse-unmixing-for-hyperspectral-images)
