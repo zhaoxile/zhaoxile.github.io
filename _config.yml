@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/newpage/images/zxl.JPG"
+  avatar           : "https://github.com/zhaoxile/newpage/images/zxl.JPG"
   name             : "Xi-Le Zhao (赵熙乐)"
   pronouns         : # example: "she/her"  
   bio              : "Professor at University of Electronic Science and Technology of China (UESTC)"
