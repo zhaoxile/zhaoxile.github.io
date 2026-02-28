@@ -1,6 +1,6 @@
 ---
 title: "Selected Publications"
-permalink: /publications/
+permalink: /group/
 author_profile: true  # 确保开启作者信息栏
 ---
 
