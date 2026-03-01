@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+💼 Office: Room A754, No. 6 Research Building, Qingshuihe Campus,Chengdu, Sichuan, China
+
+📢 <span style="color:blue">**Join Us: Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
 
 # 🙋‍♂️ Experiences
 
@@ -18,8 +21,6 @@ redirect_from:
 - From 2016 to 2017, I worked with [Prof. Jose M. Bioucas Dias](http://www.lx.it.pt/~bioucas/) as a visiting scholar at Instituto Superior Técnico.<br>
 
 🔎 My research interests are artificial intelligence and scientific computing.
-
-📢 <span style="color:blue">**Join Us: Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
 
 🎓 Google Scholar: [Full Publications (9,000+ citations)](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en); 🏫 [Official Faculty Homepage](https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm)
 
