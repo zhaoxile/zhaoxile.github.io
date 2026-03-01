@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-📢 <span style="color:blue">**Join Us: Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
+🔎 Research Interests: Artificial Intelligence, Data Science, Computing Science
 
-🔎 研究方向: 人工智能, 数据科学(Data Science), 计算科学(Computing Science)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/research.png" width="250">
 
 🎓 Google Scholar: [Full Publications (9,000+ citations)](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en); 🏫 [Official Faculty Homepage](https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm)
 
-💼 Office: Room A754, No. 6 Research Building, Qingshuihe Campus, Chengdu, Sichuan, China
+💼 Office: Room A403, Innovation Center, Qingshuihe Campus, Chengdu, Sichuan, China
+
+📢 <span style="color:blue">**Join Us: Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
 
 # 🙋‍♂️ Experiences
 
@@ -45,15 +47,6 @@ redirect_from:
 - *2025.11* : &nbsp; One paper is accepted by _**Inverse Problems**_. [[Link]](https://iopscience.iop.org/article/10.1088/1361-6420/ae2ef7)
 - *2025.06* : &nbsp; One paper is accepted by _**SIAM Journal on Imaging Sciences**_. [[Link]](https://epubs.siam.org/doi/10.1137/24M1718834)
 
-
-
-# 🧰 Tensor Jungles
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TenNet_ToolBox"><img src="/newpage/images/tennettoolbox.png" width="250"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="/newpage/images/tnntoolbox.png" width="250"></a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YisiLuo/LRTFR"><img src="/newpage/images/ConTensortoolbox.png" width="250"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox"><img src="/newpage/images/irregulartools.png" width="250"></a>
   
 <!-- 空一行，再写 script -->
 <!-- 访问量地图脚本 -->
