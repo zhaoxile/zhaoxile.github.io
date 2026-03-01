@@ -6,7 +6,7 @@ author_profile: true  # 确保开启作者信息栏
 
 # 🌐 Academic Activities
 
-## Jury member for PhD thesis defense (Skoltech, supervised by Professor Andrzej Cichocki)
+## Jury member for PhD thesis defense (Skoltech, supervised by Professor Andrzej Cichocki; The University of Hong Kong; Beijing Normal-Hong Kong Baptist University)
 
 ## Journal Reviewer
 
