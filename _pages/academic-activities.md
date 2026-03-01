@@ -14,13 +14,15 @@ author_profile: true  # 确保开启作者信息栏
 - Journal of Mathematics (wiely)
 - International Journal of Applied and Computational Mathematics
 - Scientific report
+
+### Guest Editor
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (Special Issue-Generative AI for Remote Sensing Image Processing)
+- Optik (Special Issue-Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery: Theory, Models, Algorithms, and Applications)
+- Remote Sensing (Special Issue-Model-driven and Data-driven Methods for Remote Sensing Image Processing)
   
-### Special Issue Guest Editor
-- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (Generative AI for Remote Sensing Image Processing)
-- Optik (Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery: Theory, Models, Algorithms, and Applications)
-- Remote Sensing (Model-driven and Data-driven Methods for Remote Sensing Image Processing)
-- Multi-modality Sensing Data Analysis (Methods, Fusion, and Applications in Image Processing and Computer Vision)
-- Computational Intelligence (Intelligent Remote Sensing)
+### Sensor Editor
+- Multi-modality Sensing Data Analysis (Special Issue-Methods, Fusion, and Applications in Image Processing and Computer Vision)
+- Computational Intelligence (Special Issue-Intelligent Remote Sensing)
   
 ## Jury Member for PhD Thesis Defense
 - Skoltech, supervised by Professor Andrzej Cichocki
