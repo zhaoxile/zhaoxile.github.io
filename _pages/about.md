@@ -9,7 +9,7 @@ redirect_from:
 
 📢 <span style="color:blue">**Join Us: Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
 
-🔎 My research interests are artificial intelligence and scientific computing.
+🔎 研究方向: 人工智能, 数据科学(data Science), 计算科学(Computing Science).
 
 🎓 Google Scholar: [Full Publications (9,000+ citations)](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en); 🏫 [Official Faculty Homepage](https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm)
 
