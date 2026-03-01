@@ -4,8 +4,10 @@ permalink: /coding/
 author_profile: true  # 确保开启作者信息栏
 ---
 
-# 💾 Fundings
+# 🧰 Tensor Jungles
 
-- National Natural Science Foundation of China (国家自然科学基金面上项目, NSFC 12371456), 2024-2027
-- National Natural Science Foundation of China (国家自然科学基金面上项目, NSFC 61876203), 2019-2022
-- National Natural Science Foundation of China (国家自然科学基金青年项目, NSFC 61402082), 2015-2017
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TenNet_ToolBox"><img src="/newpage/images/tennettoolbox.png" width="250"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="/newpage/images/tnntoolbox.png" width="250"></a><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YisiLuo/LRTFR"><img src="/newpage/images/ConTensortoolbox.png" width="250"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox"><img src="/newpage/images/irregulartools.png" width="250"></a>
