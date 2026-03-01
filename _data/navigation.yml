@@ -8,9 +8,13 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+- title: "Tensor Jungles"
+    url: /tensor-jungles/
+    
   - title: "Selected Publications"
     url: /selected-publications/
-
+  
   - title: "Group"
     url: /group/    
 
