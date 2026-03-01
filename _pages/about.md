@@ -6,9 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-💼 Office: Room A754, No. 6 Research Building, Qingshuihe Campus,Chengdu, Sichuan, China
 
 📢 <span style="color:blue">**Join Us: Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
+
+🔎 My research interests are artificial intelligence and scientific computing.
+
+🎓 Google Scholar: [Full Publications (9,000+ citations)](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en); 🏫 [Official Faculty Homepage](https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm)
+
+💼 Office: Room A754, No. 6 Research Building, Qingshuihe Campus, Chengdu, Sichuan, China
 
 # 🙋‍♂️ Experiences
 
@@ -19,10 +24,6 @@ redirect_from:
 - From 2013 to 2014, I worked with [Prof. Michael Ng](https://hkumath.hku.hk/~mng/) as a post-doc at Hong Kong Baptist University.<br>
 
 - From 2016 to 2017, I worked with [Prof. Jose M. Bioucas Dias](http://www.lx.it.pt/~bioucas/) as a visiting scholar at Instituto Superior Técnico.<br>
-
-🔎 My research interests are artificial intelligence and scientific computing.
-
-🎓 Google Scholar: [Full Publications (9,000+ citations)](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en); 🏫 [Official Faculty Homepage](https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm)
 
 # 🔔 News
 
@@ -38,10 +39,11 @@ redirect_from:
 </div>
 </div>
 -->
-- *2026.02* : &nbsp; One paper is accepted by _**SCIENCE CHINA Information Sciences**_. 
-- *2026.02* : &nbsp; One paper is accepted by _**CVPR**_. 
-- *2025.11* : &nbsp; One paper is accepted by _**Inverse Problems**_. 
-- *2025.06* : &nbsp; One paper is accepted by _**SIAM Journal on Imaging Sciences**_. 
+- *2026.02* : &nbsp; One book is published by _**China Higher Education Press**_. [[Link]](https://item.jd.com/10211512016165.html)
+- *2026.02* : &nbsp; One paper is accepted by _**SCIENCE CHINA Information Sciences**_. [[Link]](https://arxiv.org/abs/2505.15222)
+- *2026.02* : &nbsp; One paper is accepted by _**CVPR**_. [[Link]](https://arxiv.org/abs/2511.14270)
+- *2025.11* : &nbsp; One paper is accepted by _**Inverse Problems**_. [[Link]](https://iopscience.iop.org/article/10.1088/1361-6420/ae2ef7)
+- *2025.06* : &nbsp; One paper is accepted by _**SIAM Journal on Imaging Sciences**_. [[Link]](https://epubs.siam.org/doi/10.1137/24M1718834)
 
 
 
