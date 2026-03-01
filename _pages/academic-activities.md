@@ -5,12 +5,17 @@ author_profile: true  # 确保开启作者信息栏
 ---
 
 # 🌐 Academic Activities
-
-## Jury member for PhD thesis defense (Skoltech, supervised by Professor Andrzej Cichocki; The University of Hong Kong; Beijing Normal-Hong Kong Baptist University)
-
+## Program Committee
+- Senior Program Committee for AAAI
+- Program Committee for IJCAI
+- Technical Program Committee (TPC) for ACM MM
+## Jury Member for PhD Thesis Defense
+- Skoltech, supervised by Professor Andrzej Cichocki
+- The University of Hong Kong
+- Beijing Normal-Hong Kong Baptist University
 ## Journal Reviewer
 
-- CVPR, ICCV, ECCV, KDD, IJCAI, ACM MM
+- ICML, ICLR, CVPR, ICCV, ECCV, KDD, IJCAI, ACM MM
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
 - SIAM Journal on Imaging Sciences
 - SIAM Journal on Scientific Computing
