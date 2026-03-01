@@ -21,4 +21,4 @@ author_profile: true  # 确保开启作者信息栏
 - 唐晓乐 (西安交通大学博士, 国家自然科学基金青年学生基础研究项目, 中国科协青年人才托举工程项目, CVPR) [成电新闻](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=85568) 
 - 庄俊豪 (清华深圳研究院, 香港中文博士 ACM MM) [成电新闻](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=85980)  
 - 李佳艺 (香港中文大学博士, ECCV)
-- 谢金豫 (俄勒冈州立大学博士, GRSL)
+- 谢金豫 (俄勒冈州立大学博士, IEEE Geosci. Remote. Sens. Lett.)
