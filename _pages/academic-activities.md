@@ -9,13 +9,28 @@ author_profile: true  # 确保开启作者信息栏
 - Senior Program Committee for AAAI
 - Program Committee for IJCAI
 - Technical Program Committee (TPC) for ACM MM
+
+## Editor
+- Journal of Mathematics (wiely)
+- International Journal of Applied and Computational Mathematics
+- Scientific report
+  
+### Special Issue Guest Editor
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (Generative AI for Remote Sensing Image Processing)
+- Optik (Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery: Theory, Models, Algorithms, and Applications)
+- Remote Sensing (Model-driven and Data-driven Methods for Remote Sensing Image Processing)
+- Multi-modality Sensing Data Analysis (Methods, Fusion, and Applications in Image Processing and Computer Vision)
+- Computational Intelligence (Intelligent Remote Sensing)
+  
 ## Jury Member for PhD Thesis Defense
 - Skoltech, supervised by Professor Andrzej Cichocki
 - The University of Hong Kong
 - Beijing Normal-Hong Kong Baptist University
+  
 ## Journal Reviewer
 
-- ICML, ICLR, CVPR, ICCV, ECCV, KDD, IJCAI, ACM MM
+- ACL, ICML, ICLR, CVPR, ICCV, ECCV, KDD, IJCAI, ACM MM
+- European Journal of Operational Research (EJOR)
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
 - SIAM Journal on Imaging Sciences
 - SIAM Journal on Scientific Computing
@@ -46,3 +61,4 @@ author_profile: true  # 确保开启作者信息栏
 - Pattern Recognition
 - Information Science
 - Knowledge-Based Systems
+- IGARSS 2024 Student Paper Contest
