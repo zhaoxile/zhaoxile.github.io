@@ -41,11 +41,11 @@ redirect_from:
 </div>
 </div>
 -->
-- *2026.02* : &nbsp; One book is published by _**China Higher Education Press**_. [[Link]](https://item.jd.com/10211512016165.html)
-- *2026.02* : &nbsp; One paper is accepted by _**SCIENCE CHINA Information Sciences**_. [[Link]](https://arxiv.org/abs/2505.15222)
-- *2026.02* : &nbsp; One paper is accepted by _**CVPR**_. [[Link]](https://arxiv.org/abs/2511.14270)
-- *2025.11* : &nbsp; One paper is accepted by _**Inverse Problems**_. [[Link]](https://iopscience.iop.org/article/10.1088/1361-6420/ae2ef7)
-- *2025.06* : &nbsp; One paper is accepted by _**SIAM Journal on Imaging Sciences**_. [[Link]](https://epubs.siam.org/doi/10.1137/24M1718834)
+- *2026.02* : &nbsp; One book for Mathematics in Artificial Intelligence is published by _**China Higher Education Press**_. [[Link]](https://item.jd.com/10211512016165.html)
+- *2026.02* : &nbsp; One survey on Continuous Representation is accepted by _**SCIENCE CHINA Information Sciences**_. [[Link]](https://arxiv.org/abs/2505.15222)
+- *2026.02* : &nbsp; One work on Gaussian Splatting-based Low-rank Tensor Representation is accepted by _**CVPR**_. [[Link]](https://arxiv.org/abs/2511.14270)
+- *2025.11* : &nbsp; One work on Importance-Aware Nonlocal Tensor Nuclear Norm is accepted by _**Inverse Problems**_. [[Link]](https://iopscience.iop.org/article/10.1088/1361-6420/ae2ef7)
+- *2025.06* : &nbsp; Our work on Dictionary-Based Block Term Decomposition is accepted by _**SIAM Journal on Imaging Sciences**_. [[Link]](https://epubs.siam.org/doi/10.1137/24M1718834)
 
   
 <!-- 空一行，再写 script -->
