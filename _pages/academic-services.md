@@ -1,10 +1,10 @@
 ---
 title: ""
-permalink: /academic-activities/
+permalink: /academic-services/
 author_profile: true  # 确保开启作者信息栏
 ---
 
-# 🌐 Academic Activities
+# 🌐 Academic Services
 ## Program Committee
 - Senior Program Committee for AAAI
 - Program Committee for IJCAI
