@@ -548,7 +548,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
-    <img src="/images/lmm..png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    <img src="/images/lmm.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
     <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
