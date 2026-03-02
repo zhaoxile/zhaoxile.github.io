@@ -21,7 +21,7 @@ author_profile: true  # 确保开启作者信息栏
 - Remote Sensing (Special Issue-Model-driven and Data-driven Methods for Remote Sensing Image Processing)
   
 ### Sensor Editor
-- Multi-modality Sensing Data Analysis (Special Issue-Methods, Fusion, and Applications in Image Processing and Computer Vision)
+- [Multi-Modality Sensing Data Analysis and Its Application in Image Processing and Vision](https://www.mdpi.com/journal/sensors/special_issues/M8X8580H09)
 - Computational Intelligence (Special Issue-Intelligent Remote Sensing)
   
 ## Jury Member for PhD Thesis Defense
