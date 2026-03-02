@@ -119,12 +119,16 @@ author_profile: true
 
 ## 2024
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/lrtfr.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/lrtfr.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery<br>
   Yi-Si Luo, **Xi-Le Zhao**, Zhe-Min Li, Michael K. Ng, De-Yu Meng<br>
    **_IEEE Trans. Pattern Anal. Mach. Intell._** [[Pytorch Code]](https://github.com/YisiLuo/Continuous-Tensor-Toolbox)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/svdinstn.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/svdinstn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective<br>
   Yu-Bang Zheng, **Xi-Le Zhao**, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang<br>
    **_CVPR_**
