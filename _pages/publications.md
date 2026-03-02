@@ -54,7 +54,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -70,7 +70,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
@@ -87,7 +87,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -103,7 +103,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -119,7 +119,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 ## 2025
 
@@ -137,7 +137,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -153,7 +153,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -169,7 +169,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
@@ -186,7 +186,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -202,7 +202,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -218,7 +218,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -234,7 +234,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -250,7 +250,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 ## 2024
 
@@ -268,7 +268,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -284,7 +284,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -300,7 +300,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -316,7 +316,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -332,7 +332,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -348,7 +348,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -364,7 +364,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -380,7 +380,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 ## 2023
 
@@ -398,7 +398,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -414,7 +414,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -430,7 +430,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -446,7 +446,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 ## 2022
 
@@ -464,7 +464,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -480,7 +480,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -496,7 +496,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -512,7 +512,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -528,7 +528,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -544,7 +544,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -560,7 +560,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -576,7 +576,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 ## 2021
 
@@ -594,7 +594,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -610,7 +610,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -626,7 +626,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -642,7 +642,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -658,7 +658,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -674,7 +674,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 ## 2020
 
@@ -692,7 +692,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -708,7 +708,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -724,7 +724,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -740,7 +740,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -756,7 +756,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -772,7 +772,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -788,7 +788,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
     
 ## 2019
 
@@ -806,7 +806,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -822,7 +822,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -838,7 +838,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 ## 2018
 
@@ -856,7 +856,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -872,8 +872,7 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
-  
+
 ## 2017
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
@@ -890,7 +889,6 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -906,7 +904,6 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
 
 ## 2016
 
@@ -924,7 +921,6 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
 
 
 ## 2015
@@ -943,7 +939,6 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
 
 ## 2014
 
@@ -961,7 +956,6 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
 
 ## 2013
 
@@ -979,7 +973,6 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
@@ -995,5 +988,4 @@ author_profile: true
     </ul>
   </div>
 </div>
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
 
