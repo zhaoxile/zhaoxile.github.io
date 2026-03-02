@@ -717,7 +717,7 @@ author_profile: true
   <div style="flex: 1;">
     <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
       <li>
-        Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization  <span style="color:blue">(ESI Highly Cited Paper)</span><br>
+        Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization  <span style="color: blue !important; font-weight: bold;">(ESI Highly Cited Paper)</span></span><br>
         Yu-Bang Zheng, Ting-Zhu Huang, <strong>Xi-Le Zhao</strong>, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji<br>
        <strong><em>IEEE Trans. Geosci. Remote Sens.</em></strong> <a href="https://github.com/zhaoxile/Mixed-Noise-Removal-in-Hyperspectral-Image-via-Low-Fibered-Rank-Regularization" rel="noopener noreferrer">[MATLAB Code]</a>
       </li>
@@ -849,7 +849,7 @@ author_profile: true
   <div style="flex: 1;">
     <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
       <li>
-        Hyperspectral Image Restoration via Total Variation Regularized Low-Rank Tensor Decomposition  <span style="color:blue">(ESI Highly Cited Paper)<br>
+        Hyperspectral Image Restoration via Total Variation Regularized Low-Rank Tensor Decomposition  <span style="color: blue !important; font-weight: bold;">(ESI Highly Cited Paper)</span><br>
         Yao Wang, Jiangjun Peng, Qian Zhao, Yee Leung, <strong>Xi-Le Zhao</strong>, Deyu Meng<br>
        <strong><em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</em></strong> <a href="https://github.com/zhaoxile/Hyperspectral-Image-Restoration-via-Total-Variation-Regularized-Low-rank-Tensor-Decomposition" rel="noopener noreferrer">[MATLAB Code]</a>
       </li>
@@ -949,7 +949,7 @@ author_profile: true
   <div style="flex: 1;">
     <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
       <li>
-        A New Convex Optimization Model for Multiplicative Noise and Blur Removal  <span style="color:blue">(ESI Highly Cited Paper)</span><br>
+        A New Convex Optimization Model for Multiplicative Noise and Blur Removal  <span style="color: blue !important; font-weight: bold;">(ESI Highly Cited Paper)</span><br>
         <strong>Xi-Le Zhao</strong>, Fan Wang, Michael K. Ng<br>
        <strong><em>SIAM Journal on Imaging Sciences</em></strong> <a href="https://github.com/zhaoxile/A-New-Convex-Optimization-Model-for-Multiplicative-Noise-and-Blur-Removal" target="_blank" rel="noopener noreferrer">[MATLAB Code]</a>
       </li>
