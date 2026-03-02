@@ -173,7 +173,7 @@ author_profile: true
 </div>
 - Forecasting Urban Traffic States with Sparse Data Using Hankel Temporal Matrix Factorization<br>
   Xin-Yu Chen, **Xi-Le Zhao**, Chuan Chen<br>
-   **_INFORMS Journal on Computing_**
+   **_INFORMS Journal on Computing (UTD-24)_**
 
 ## 2023
 
