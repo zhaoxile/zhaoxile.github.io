@@ -295,7 +295,7 @@ author_profile: true
       <li>
         Revisiting High-Order Tensor Singular Value Decomposition from Basic Element Perspective<br>
         Sheng Liu, <strong>Xi-Le Zhao</strong>, Jin-Song Leng, Ben-Zheng Li, Jing-Hua Yang, Xin-Yu Chen<br>
-       <strong><em>IEEE Trans. Signal Process.</em></strong> <a href="[https://github.com/YisiLuo/CRNL](https://github.com/liu-sheng/code_METNN)" target="_blank" rel="noopener noreferrer">[MATLAB Code]</a>
+       <strong><em>IEEE Trans. Signal Process.</em></strong> <a href="https://github.com/liu-sheng/code_METNN" target="_blank" rel="noopener noreferrer">[MATLAB Code]</a>
       </li>
     </ul>
   </div>
