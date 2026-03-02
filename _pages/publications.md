@@ -24,7 +24,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/fctn-survey.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -41,7 +41,7 @@ author_profile: true
 ## 2026
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/guass.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -57,7 +57,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/ntnn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -74,7 +74,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/tilr-cr.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -90,7 +90,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/dbtd.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -106,7 +106,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/utcr2.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -124,7 +124,7 @@ author_profile: true
 ## 2025
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/crnl.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -140,7 +140,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/ft-svd.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -156,7 +156,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/neurtv.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -173,7 +173,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/fainr.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -189,7 +189,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/dtr.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -205,7 +205,7 @@ author_profile: true
 
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/stinr.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -221,7 +221,7 @@ author_profile: true
 
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/sitd.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -237,7 +237,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/notmf.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -255,7 +255,7 @@ author_profile: true
 ## 2024
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/lrtfr.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -271,7 +271,7 @@ author_profile: true
 
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/svdinstn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -287,7 +287,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/metnn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -303,7 +303,7 @@ author_profile: true
 
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/lta-tsvd.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -319,7 +319,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/factordvp-t.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -335,7 +335,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/gtd.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -351,7 +351,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/kpf-btd.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -367,7 +367,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/htmf.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -385,7 +385,7 @@ author_profile: true
 ## 2023
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/gtnn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -401,7 +401,7 @@ author_profile: true
 
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/sstc-cr.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -417,7 +417,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/dtnn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -433,7 +433,7 @@ author_profile: true
 
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/h2tf.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -451,7 +451,7 @@ author_profile: true
 ## 2022
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/hlrtf.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -467,7 +467,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/nttnn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -483,7 +483,7 @@ author_profile: true
 
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/t-fctn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -499,7 +499,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/glon.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -515,7 +515,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/s2ntnn-tv.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -531,7 +531,7 @@ author_profile: true
 
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/msf.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -547,7 +547,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/lmm.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -563,7 +563,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/rtcr.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -581,7 +581,7 @@ author_profile: true
 ## 2021
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/cslrt.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -597,7 +597,7 @@ author_profile: true
 
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/kgcnn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -613,7 +613,7 @@ author_profile: true
 
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/ct-lrtc.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -629,7 +629,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/fctn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -645,7 +645,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/tensrde.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -661,7 +661,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/scll1.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -679,7 +679,7 @@ author_profile: true
 ## 2020
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/dp3lrtc.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -695,7 +695,7 @@ author_profile: true
 
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/ftnn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -711,7 +711,7 @@ author_profile: true
 
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/3dtnn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -727,7 +727,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/lrtf-dfr.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -743,7 +743,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/pstnn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -759,7 +759,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/tctf-tvt.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -775,7 +775,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/wstnn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -793,7 +793,7 @@ author_profile: true
 ## 2019
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/fastderain.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -809,7 +809,7 @@ author_profile: true
 
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/mf-tttv.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -825,7 +825,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/smf-lrtc.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -843,7 +843,7 @@ author_profile: true
 ## 2018
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/lrtdtv.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -859,7 +859,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/framelet.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -876,7 +876,7 @@ author_profile: true
 ## 2017
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/rain.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -891,7 +891,7 @@ author_profile: true
 </div>
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/logdet.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -908,7 +908,7 @@ author_profile: true
 ## 2016
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/bcd.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -926,7 +926,7 @@ author_profile: true
 ## 2015
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/tvnls.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -943,7 +943,7 @@ author_profile: true
 ## 2014
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/convex.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -960,7 +960,7 @@ author_profile: true
 ## 2013
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/tv.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
@@ -975,7 +975,7 @@ author_profile: true
 </div>
   
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/deblurring.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
