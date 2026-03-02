@@ -15,4 +15,4 @@ author_profile: true  # 确保开启作者信息栏
   2019: [Yun-Yang Liu](https://yun-yangliu.github.io/) (Work at Anhui University); [Ben-Zheng Li](https://benzhengli.github.io/) (Work at Central China Normal University)<br> 
   2020: Ke-Xiang Cao (Work at State Grid Anhui Electric Power Co., Ltd.); Huan Li (Work at CIB Digital Financial Services Co., Ltd.); Peng-Ling Wu (Postdoctoral Researcher at University of Electronic Science and Technology of China)<br>
   2021: Cheng-Yao Lyu (PhD at Oregon State University)<br>
-  2022: Chuan Wang (PhD at Hong Kong Baptist University); Yu-Han Liu (Higher Education Press)<br>
+  2022: Chuan Wang (PhD at Hong Kong Baptist University); Yu-Han Liu (Work at Higher Education Press)<br>
