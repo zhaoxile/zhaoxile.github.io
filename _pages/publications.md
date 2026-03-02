@@ -9,6 +9,9 @@ author_profile: true
 ## Surveys
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/continous-survey.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/continuous-survey.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives<br>
   Yi-Si Luo, **Xi-Le Zhao**, De-Yu Meng<br>
   **_SCIENCE CHINA Information Sciences_**
