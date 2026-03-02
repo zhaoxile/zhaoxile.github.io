@@ -8,84 +8,111 @@ author_profile: true
 
 ## Surveys
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/continous-survey.png" width="350" height="200">
 <div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
   <img src="/newpage/images/continous-survey.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
 </div>
 - Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives<br>
   Yi-Si Luo, **Xi-Le Zhao**, De-Yu Meng<br>
   **_SCIENCE CHINA Information Sciences_**
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/fctn-survey.jpg" width="350" height="200">
+
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/fctn-survey.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects<br>
   Yu-Bang Zheng, **Xi-Le Zhao**, Heng-Chao Li, Chao Li, Ting-Zhu Huang, Qibin Zhao<br>
    **_Neural Networks_**
 
 ## 2026
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/guass.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/guass.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - Gaussian Splatting-based Low-rank Tensor Representation for Multi-Dimensional Image Recovery<br>
   Yi-Ming Zeng, **Xi-Le Zhao**, Wei-Hao Wu, Teng-Yu Ji<br>
    **_CVPR_**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/ntnn.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/ntnn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - Importance-Aware Nonlocal Tensor Nuclear Norm for High-Dimensional Image Recovery<br>
   Ben-Zheng Li, **Xi-Le Zhao**, Hao Zhang, De-Lin Chu<br>
    **_Inverse Problems_**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/tilr-cr.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/tilr-cr.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - Topology-Induced Low-Rank Tensor Representation for Spatio-Temporal Traffic Data Imputation<br>
   Zhi-Long Han, Ting-Zhu Huang, **Xi-Le Zhao**, Ben-Zheng Li, Meng Ding<br>
    **_IEEE Trans. Knowledge Data Eng._**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/dbtd.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/dbtd.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - Dictionary-Based Block Term Decomposition for Third-Order Tensors<br>
   Ben-Zheng Li, **Xi-Le Zhao**, Hao Zhang, De-Lin Chu<br>
    **_SIAM Journal on Imaging Sciences_**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/utcr2.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/utcr2.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - A Unified Sentinel-2 Imagery Thick Cloud Removal and Rescaling Framework from A Continuous Perspective<br>
   Wei-Hao Wu, Ting-Zhu Huang, **Xi-Le Zhao**, Xingwen Quan, Yu-Bang Zheng, Deyu Meng<br>
    **_IEEE Trans. Geosci. Remote Sens._**
   
 ## 2025
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/crnl.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/crnl.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - Revisiting Nonlocal Self-Similarity from Continuous Representation<br>
   Yi-Si Luo, **Xi-Le Zhao**, De-Yu Meng<br>
    **_IEEE Trans. Pattern Anal. Mach. Intell._** [[Pytorch Code]](https://github.com/YisiLuo/CRNL)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/ft-svd.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/ft-svd.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - Functional Tensor Singular Value Decomposition<br>
   Chuan Wang, **Xi-Le Zhao**, Yu-Bang Zheng, Ben-Zheng Li, Michael K. Ng<br>
    **_SIAM Journal on Scientific Computing_**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/neurtv.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/neurtv.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - NeurTV: Total Variation on the Neural Domain<br>
   Yi-Si Luo, **Xi-Le Zhao**, Kai Ye, De-Yu Meng<br>
    **_SIAM Journal on Imaging Sciences_** [[Pytorch Code]](https://github.com/YisiLuo/NeurTV)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/fainr.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/fainr.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - Frequency-Aware Implicit Neural Representation for Multi-Dimensional Data Recovery<br>
   Ting-Wei Zhou, **Xi-Le Zhao**, Wei-Hao Wu, Jian-Li Wang, Yi-Si Luo<br>
    **_IEEE Trans. Circ. Syst. Video Tech._**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/dtr.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/dtr.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - DTR: A Unified Deep Tensor Representation Framework for Multimedia Data Recovery<br>
   Ting-Wei Zhou, **Xi-Le Zhao**, Jian-Li Wang, Yi-Si Luo, Min Wang, Xiao-Xuan Bai, Hong Yan<br>
    **_IEEE Trans. Multimedia_**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/stinr.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/stinr.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - STINR: Deciphering Spatial Transcriptomics via Implicit Neural Representation<br>
   Yi-Si Luo, **Xi-Le Zhao**, Kai Ye, De-Yu Meng<br>
    **_CVPR_** [[Pytorch Code]](https://github.com/YisiLuo/STINR)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/sitd.png" width="350" height="200"> 
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/sitd.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - Slice-Wise Irregular Tensor Decomposition and Its Application<br>
   Hao Zhang, Ting-Zhu Huang, **Xi-Le Zhao**, Lu-Bin Cui, Michael K. Ng<br>
    **_J. Sci. Comput._**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage/images/notmf.png" width="350" height="200">
+<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
+  <img src="/newpage/images/notmf.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 - Forecasting Sparse Movement Speed of Urban Road Networks with Nonstationary Temporal Matrix Factorization<br>
   Xinyu Chen, Chengyuan Zhang, **Xi-Le Zhao**, Nicolas Saunier， Lijun Sun<br>
    **_Transportation Science_**
