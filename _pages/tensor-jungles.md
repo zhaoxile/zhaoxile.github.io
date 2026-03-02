@@ -12,4 +12,4 @@ author_profile: true  # 确保开启作者信息栏
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YisiLuo/LRTFR"><img src="/newpage/images/ConTensortoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox"><img src="/newpage/images/irregulartools.png" width="250"></a>
 
-[[Other Code Here]](https://github.com/zhaoxile)
+[[Other Codes Here]](https://github.com/zhaoxile)
