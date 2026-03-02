@@ -423,7 +423,7 @@ author_profile: true
   <div style="flex: 1;">
     <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
       <li>
-        Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal<br>
+        Dictionary Learning with Low-Rank Coding Coefficients for Tensor Completion<br>
         Tai-Xiang Jiang, <strong>Xi-Le Zhao</strong>, Hao Zhang, Michael K. Ng<br>
        <strong><em>IEEE Trans. Neural Netw. Learn. Syst.</em></strong> 
       </li>
