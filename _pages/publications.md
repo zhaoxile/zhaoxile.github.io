@@ -145,14 +145,14 @@ author_profile: true
 </div>
 - Learnable Transform-Assisted Tensor Decomposition for Spatial-Irregular Multidimensional Data Recovery<br>
   Hao Zhang, Ting-Zhu Huang, **Xi-Le Zhao**, Shu-Qin Zhang, Jin-Yu Xie, Tai-Xiang Jiang, Michael K. Ng<br>
-   **_IEEE Trans. Comput. Imaging_**
+   **_ACM Trans. Knowl. Discov. Data._**
 
 <div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
   <img src="/newpage/images/factordvp-t.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
 </div>
 - Snapshot Compressive Imaging Using Domain-Factorized Deep Video Prior<br>
   Yu-Chun Miao, **Xi-Le Zhao**, Jian-Li Wang, Xiao Fu, Yao Wang<br>
-   **_ACM Trans. Knowl. Discov. Data._**
+   **_IEEE Trans. Comput. Imaging_**
 
 <div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
   <img src="/newpage/images/gtd.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
