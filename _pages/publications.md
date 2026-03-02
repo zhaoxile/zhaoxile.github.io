@@ -9,7 +9,7 @@ author_profile: true
 ## Surveys
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/continous-survey.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1;">
