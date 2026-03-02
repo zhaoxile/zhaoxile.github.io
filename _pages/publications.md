@@ -717,7 +717,7 @@ author_profile: true
   <div style="flex: 1;">
     <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
       <li>
-        Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization  <span style="color: blue !important; font-weight: bold;">(ESI Highly Cited Paper)</span></span><br>
+        Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization  <span style="color: blue !important; font-weight: bold;">(ESI Highly Cited Paper)</span><br>
         Yu-Bang Zheng, Ting-Zhu Huang, <strong>Xi-Le Zhao</strong>, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji<br>
        <strong><em>IEEE Trans. Geosci. Remote Sens.</em></strong> <a href="https://github.com/zhaoxile/Mixed-Noise-Removal-in-Hyperspectral-Image-via-Low-Fibered-Rank-Regularization" rel="noopener noreferrer">[MATLAB Code]</a>
       </li>
