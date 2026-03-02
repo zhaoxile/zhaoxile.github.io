@@ -8,23 +8,18 @@ author_profile: true
 
 ## Surveys
 
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
-  <img src="/images/continous-survey.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-</div>
-- Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives<br>
-  Yi-Si Luo, **Xi-Le Zhao**, De-Yu Meng<br>
-  **_SCIENCE CHINA Information Sciences_**
-
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
-  <!-- 图片容器：保持你原来的尺寸和样式 -->
   <div style="width: 350px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
     <img src="/images/continous-survey.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
-  <!-- 论文文字容器：自动填充剩余空间 -->
   <div style="flex: 1;">
-    - Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives<br>
-    Yi-Si Luo, <strong>Xi-Le Zhao</strong>, De-Yu Meng<br>
-    <strong><em>SCIENCE CHINA Information Sciences</em></strong>
+    <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+      <li>
+        Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives<br>
+        Yi-Si Luo, <strong>Xi-Le Zhao</strong>, De-Yu Meng<br>
+        <strong><em>SCIENCE CHINA Information Sciences</em></strong>
+      </li>
+    </ul>
   </div>
 </div>
 
