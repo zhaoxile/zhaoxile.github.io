@@ -39,7 +39,7 @@ redirect_from:
 </div>
 </div>
 -->
-- *2026.02* : &nbsp; One textbook for Mathematics in Artificial Intelligence Foundations and Experiments published by _**China Higher Education Press**_. [[Link]](https://item.jd.com/10211512016165.html)
+- *2026.02* : &nbsp; One textbook on Mathematics in Artificial Intelligence Foundations and Experiments published by _**China Higher Education Press**_. [[Link]](https://item.jd.com/10211512016165.html)
 - *2026.02* : &nbsp; One survey on Continuous Representation is accepted by _**SCIENCE CHINA Information Sciences**_. [[Link]](https://arxiv.org/abs/2505.15222)
 - *2026.02* : &nbsp; One work on Gaussian Splatting-based Low-rank Tensor Representation is accepted by _**CVPR**_. [[Link]](https://arxiv.org/abs/2511.14270)
 - *2025.11* : &nbsp; One work on Importance-Aware Nonlocal Tensor Nuclear Norm is accepted by _**Inverse Problems**_. [[Link]](https://iopscience.iop.org/article/10.1088/1361-6420/ae2ef7)
