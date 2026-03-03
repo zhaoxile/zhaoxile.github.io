@@ -48,7 +48,7 @@ author_profile: true
     <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
       <li>
         Gaussian Splatting-based Low-rank Tensor Representation for Multi-Dimensional Image Recovery<br>
-        Yi-Ming Zeng, <strong>Xi-Le Zhao</strong>, Wei-Hao Wu, Teng-Yu Ji<br>
+        Yi-Ming Zeng, <strong>Xi-Le Zhao</strong>, Wei-Hao Wu, Teng-Yu Ji, Chao Wang<br>
        <strong><em>CVPR</em></strong>
       </li>
     </ul>
