@@ -21,9 +21,9 @@ redirect_from:
 
 - In 2012, I received my Ph.D. in Applied Mathematics from UESTC, advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm).<br>
 
-- From 2013 to 2014, I worked with [Prof. Michael Ng](https://hkumath.hku.hk/~mng/) as a post-doc at Hong Kong Baptist University.<br>
+- From 2013 to 2014, I worked with [Prof. Michael Ng (SIAM/AMS Fellow)](https://hkumath.hku.hk/~mng/) as a post-doc at Hong Kong Baptist University.<br>
 
-- From 2016 to 2017, I worked with [Prof. Jose M. Bioucas Dias](http://www.lx.it.pt/~bioucas/) as a visiting scholar at Instituto Superior Técnico.<br>
+- From 2016 to 2017, I worked with [Prof. Jose M. Bioucas Dias (IEEE Fellow)](http://www.lx.it.pt/~bioucas/) as a visiting scholar at Instituto Superior Técnico.<br>
 
 # 🔔 News
 
@@ -39,10 +39,11 @@ redirect_from:
 </div>
 </div>
 -->
-- *2026.02* : &nbsp; One textbook on Mathematics in Artificial Intelligence Foundations and Experiments published by _**Higher Education Press**_. [[Link]](https://item.jd.com/10211512016165.html)
-- *2026.02* : &nbsp; One survey on Continuous Representation is accepted by _**SCIENCE CHINA Information Sciences**_. [[Link]](https://arxiv.org/abs/2505.15222)
-- *2026.02* : &nbsp; One work on Gaussian Splatting-based Low-rank Tensor Representation is accepted by _**CVPR**_. [[Link]](https://arxiv.org/abs/2511.14270)
-- *2025.11* : &nbsp; One work on Importance-Aware Nonlocal Tensor Nuclear Norm is accepted by _**Inverse Problems**_. [[Link]](https://iopscience.iop.org/article/10.1088/1361-6420/ae2ef7)
+- *2026.03* : &nbsp; Our work on Neural Operator-Grounded Continuous Tensor Function Representation is out as _**Pre-Print**_. [[Link]](https://arxiv.org/abs/2603.01812)
+- *2026.02* : &nbsp; Our textbook on Mathematics in Artificial Intelligence Foundations and Experiments published by _**Higher Education Press**_. [[Link]](https://item.jd.com/10211512016165.html)
+- *2026.02* : &nbsp; Our survey on Continuous Representation is accepted by _**SCIENCE CHINA Information Sciences**_. [[Link]](https://arxiv.org/abs/2505.15222)
+- *2026.02* : &nbsp; Our work on Gaussian Splatting-based Low-rank Tensor Representation is accepted by _**CVPR**_. [[Link]](https://arxiv.org/abs/2511.14270)
+- *2025.11* : &nbsp; Our work on Importance-Aware Nonlocal Tensor Nuclear Norm is accepted by _**Inverse Problems**_. [[Link]](https://iopscience.iop.org/article/10.1088/1361-6420/ae2ef7)
 - *2025.06* : &nbsp; Our work on Dictionary-Based Block Term Decomposition is accepted by _**SIAM Journal on Imaging Sciences**_. [[Link]](https://epubs.siam.org/doi/10.1137/24M1718834)
 
   
