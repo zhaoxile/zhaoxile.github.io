@@ -40,6 +40,7 @@ redirect_from:
 </div>
 -->
 - *2026.03* : &nbsp; Our work on Neural Operator-Grounded Continuous Tensor Function Representation is available on _**Arxiv**_. [[Link]](https://arxiv.org/abs/2603.01812)
+- *2026.03* : &nbsp; Our work on Mixture-of-Experts-Based Tensor Decomposition Structure Search Framework is available on _**Arxiv**_. [[Link]](https://arxiv.org/abs/2603.02720)
 - *2026.02* : &nbsp; Our textbook on Mathematics in Artificial Intelligence Foundations and Experiments published by _**Higher Education Press**_. [[Link]](https://item.jd.com/10211512016165.html)
 - *2026.02* : &nbsp; Our survey on Continuous Representation is accepted by _**SCIENCE CHINA Information Sciences**_. [[Link]](https://arxiv.org/abs/2505.15222)
 - *2026.02* : &nbsp; Our work on Gaussian Splatting-based Low-rank Tensor Representation is accepted by _**CVPR**_. [[Link]](https://arxiv.org/abs/2511.14270)
