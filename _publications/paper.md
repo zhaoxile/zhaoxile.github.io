@@ -48,7 +48,7 @@ permalink: /publication/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/bcttd.jpg" width="350">
 - Block Customized Topology Term Decomposition for High-Dimensional Image Reconstruction<br>
   Sheng Liu, **Xi-Le Zhao**, Yu-Bang Zheng<br>
-   **_IEEE Trans. Image Process._** [[Link]](https://ieeexplore.ieee.org/document/11493979/)
+   **_IEEE Trans. Image Process._**
   
 ## 2025
 
