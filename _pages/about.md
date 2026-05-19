@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Google Scholar: [Full Publications (9,000+ citations)](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en); 🏫 [Official Faculty Homepage](https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm)
+🎓 Google Scholar: [Full Publications (10,000+ citations)](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en); 🏫 [Official Faculty Homepage](https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm)
 
 🔎 Research Interests: Artificial Intelligence, Data Science, Computational Science
 
