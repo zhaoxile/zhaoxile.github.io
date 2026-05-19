@@ -120,6 +120,22 @@ author_profile: true
   </div>
 </div>
 
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px;">
+  <div style="width: 250px; height: 200px; display: flex; align-items: center; justify-content: center; border: 1px solid #eee; flex-shrink: 0;">
+    <img src="/images/bcttd.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </div>
+  <div style="flex: 1;">
+    <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+      <li>
+        Block Customized Topology Term Decomposition for High-Dimensional Image Reconstruction<br>
+        Sheng Liu, <strong>Xi-Le Zhao</strong>, Yu-Bang Zheng<br>
+       <strong><em>IEEE Trans. Image Process.</em></strong> <a href="https://ieeexplore.ieee.org/document/11493979/" target="_blank" rel="noopener noreferrer">[Link]</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
   
 ## 2025
 

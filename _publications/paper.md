@@ -44,6 +44,11 @@ permalink: /publication/
 - A Unified Sentinel-2 Imagery Thick Cloud Removal and Rescaling Framework from A Continuous Perspective<br>
   Wei-Hao Wu, Ting-Zhu Huang, **Xi-Le Zhao**, Xingwen Quan, Yu-Bang Zheng, Deyu Meng<br>
    **_IEEE Trans. Geosci. Remote Sens._**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/bcttd.jpg" width="350">
+- Block Customized Topology Term Decomposition for High-Dimensional Image Reconstruction<br>
+  Sheng Liu, **Xi-Le Zhao**, Yu-Bang Zheng<br>
+   **_IEEE Trans. Image Process._** [[Link]](https://ieeexplore.ieee.org/document/11493979/)
   
 ## 2025
 
