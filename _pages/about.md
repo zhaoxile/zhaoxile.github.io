@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <section class="home-hero">
-  <div class="home-eyebrow">Mathematical Intelligence · Tensor Methods · Computational Imaging</div>
+  <div class="home-eyebrow">Artificial Intelligence · Scientific Computing</div>
   <h1>Xi-Le Zhao</h1>
-  <p class="home-hero__subtitle">Professor at the School of Mathematical Sciences, University of Electronic Science and Technology of China. My research focuses on tensor methods, low-rank modeling, computational imaging, remote sensing image processing, and artificial intelligence.</p>
+  <p class="home-hero__subtitle">Professor at the School of Mathematical Sciences, University of Electronic Science and Technology of China. My research focuses on artificial intelligence and scientific computing, with applications in computational imaging, remote sensing image processing, and high-dimensional data analysis.</p>
   <div class="home-hero__actions">
     <a class="home-button home-button--primary" href="https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
     <a class="home-button home-button--ghost" href="https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm" target="_blank" rel="noopener noreferrer">Official Homepage</a>
@@ -18,7 +18,7 @@ redirect_from:
   <div class="home-stats">
     <div><strong>10,000+</strong><span>Citations</span></div>
     <div><strong>UESTC</strong><span>Professor</span></div>
-    <div><strong>AI + Math</strong><span>Research Focus</span></div>
+    <div><strong>AI + SciComp</strong><span>Research Focus</span></div>
   </div>
 </section>
 
@@ -34,16 +34,12 @@ redirect_from:
   <span class="home-section-label">Research Interests</span>
   <div class="home-grid home-grid--research">
     <article class="home-card">
-      <h3>Tensor Methods</h3>
-      <p>Low-rank tensor modeling, tensor decomposition, tensor networks, and scalable optimization for high-dimensional data.</p>
-    </article>
-    <article class="home-card">
-      <h3>Computational Imaging</h3>
-      <p>Mathematical and learning-based models for image restoration, recovery, inverse problems, and visual data representation.</p>
-    </article>
-    <article class="home-card">
       <h3>Artificial Intelligence</h3>
-      <p>Continuous representations, neural operators, deep tensor models, and data-efficient learning for scientific and visual data.</p>
+      <p>Learning-based modeling, continuous representations, neural operators, and data-efficient methods for scientific and visual data.</p>
+    </article>
+    <article class="home-card">
+      <h3>Scientific Computing</h3>
+      <p>Mathematical modeling, numerical optimization, inverse problems, and high-dimensional data analysis for computational science.</p>
     </article>
   </div>
 </section>
