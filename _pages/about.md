@@ -7,44 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-<section class="home-hero">
+<section class="home-intro">
   <div class="home-eyebrow">Mathematical Intelligence · Tensor Methods · Computational Imaging</div>
-  <h1>Xi-Le Zhao</h1>
-  <p class="home-hero__subtitle">Professor at the School of Mathematical Sciences, University of Electronic Science and Technology of China. My research focuses on tensor methods, low-rank modeling, computational imaging, remote sensing image processing, and artificial intelligence.</p>
-  <div class="home-hero__actions">
-    <a class="home-button home-button--primary" href="https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
-    <a class="home-button home-button--ghost" href="https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm" target="_blank" rel="noopener noreferrer">Official Homepage</a>
-  </div>
-  <div class="home-stats">
-    <div><strong>10,000+</strong><span>Citations</span></div>
-    <div><strong>UESTC</strong><span>Professor</span></div>
-    <div><strong>AI + Math</strong><span>Research Focus</span></div>
+  <p class="home-intro__lead">I am a Professor at the School of Mathematical Sciences, University of Electronic Science and Technology of China. My research focuses on tensor methods, low-rank modeling, computational imaging, remote sensing image processing, and artificial intelligence.</p>
+  <div class="home-intro__links">
+    <a href="https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar · 10,000+ citations</a>
+    <a href="https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm" target="_blank" rel="noopener noreferrer">Official Faculty Homepage</a>
   </div>
 </section>
 
-<section class="home-card home-card--join">
-  <div>
-    <span class="home-section-label">Join Us</span>
-    <h2>Self-motivated students are welcome to join my research group.</h2>
-    <p>Please feel free to contact me if you are interested in mathematical foundations, tensor modeling, computational imaging, and AI-driven data science.</p>
-  </div>
+<section class="home-highlight">
+  <strong>Join Us</strong>
+  <span>Self-motivated students interested in mathematical foundations, tensor modeling, computational imaging, and AI-driven data science are welcome to contact me.</span>
 </section>
 
 <section class="home-section">
   <span class="home-section-label">Research Interests</span>
-  <div class="home-grid home-grid--research">
-    <article class="home-card">
-      <h3>Tensor Methods</h3>
-      <p>Low-rank tensor modeling, tensor decomposition, tensor networks, and scalable optimization for high-dimensional data.</p>
-    </article>
-    <article class="home-card">
-      <h3>Computational Imaging</h3>
-      <p>Mathematical and learning-based models for image restoration, recovery, inverse problems, and visual data representation.</p>
-    </article>
-    <article class="home-card">
-      <h3>Artificial Intelligence</h3>
-      <p>Continuous representations, neural operators, deep tensor models, and data-efficient learning for scientific and visual data.</p>
-    </article>
+  <div class="home-research-list">
+    <p><strong>Tensor Methods</strong> — low-rank tensor modeling, tensor decomposition, tensor networks, and scalable optimization for high-dimensional data.</p>
+    <p><strong>Computational Imaging</strong> — mathematical and learning-based models for image restoration, recovery, inverse problems, and visual data representation.</p>
+    <p><strong>Artificial Intelligence</strong> — continuous representations, neural operators, deep tensor models, and data-efficient learning for scientific and visual data.</p>
   </div>
 </section>
 
@@ -56,8 +38,8 @@ redirect_from:
       <p>I am a <a href="http://www.math.uestc.edu.cn/info/1081/2025.htm">Professor</a> in the School of Mathematical Sciences at <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC)</a>.</p>
     </div>
     <div class="home-timeline__item">
-      <span>2012</span>
-      <p>I received my Ph.D. in Applied Mathematics from UESTC, advised by <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a>.</p>
+      <span>2009–2012</span>
+      <p>Ph.D. in Applied Mathematics at UESTC, advised by <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a>.</p>
     </div>
     <div class="home-timeline__item">
       <span>2013–2014</span>
