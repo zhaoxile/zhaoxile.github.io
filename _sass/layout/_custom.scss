@@ -6,55 +6,28 @@
   height: auto;
 }
 
-.pub-year-nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.35rem;
-  margin: 1rem 0 1.5rem;
-  padding: 0.65rem 0;
-  border-top: 1px solid var(--global-border-color);
-  border-bottom: 1px solid var(--global-border-color);
-}
-
-.pub-year-nav a {
-  display: inline-block;
-  padding: 0.25rem 0.55rem;
-  border: 1px solid var(--global-border-color);
-  border-radius: 999px;
-  font-size: 0.82rem;
-  line-height: 1.2;
-  text-decoration: none;
-  background: var(--global-bg-color);
-}
-
-.pub-year-nav a:hover {
-  color: var(--global-link-color-hover);
-  text-decoration: none;
-  border-color: var(--global-link-color-hover);
-}
-
 .pub-item {
-  margin: 0 0 0.95rem;
-  padding: 0.85rem 1rem;
+  margin: 0 0 1.35rem;
+  padding: 1rem 1.1rem;
   border-left: 3px solid var(--global-border-color);
   border-radius: 0.25rem;
   background: rgba(127, 127, 127, 0.04);
 }
 
 .pub-title {
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.35rem;
   font-weight: 700;
-  line-height: 1.35;
+  line-height: 1.4;
 }
 
 .pub-authors {
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.28rem;
   color: var(--global-text-color-light);
-  line-height: 1.35;
+  line-height: 1.42;
 }
 
 .pub-venue {
-  line-height: 1.4;
+  line-height: 1.45;
 }
 
 .pub-badge {
@@ -90,16 +63,6 @@
 }
 
 @media (max-width: 600px) {
-  .pub-year-nav {
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    padding-bottom: 0.8rem;
-  }
-
-  .pub-year-nav a {
-    flex: 0 0 auto;
-  }
-
   .pub-item {
     padding: 0.75rem 0.8rem;
   }
