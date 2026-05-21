@@ -29,21 +29,17 @@ redirect_from:
 
   <section class="home-section">
     <h1>🙋‍♂️ Experiences</h1>
-    <div class="home-timeline">
-      <div class="home-timeline__item">
-        <div class="home-timeline__marker">Now</div>
+    <div class="home-experience-list">
+      <div class="home-experience__item">
         <div>I am a <a href="http://www.math.uestc.edu.cn/info/1081/2025.htm">Professor</a> in the School of Mathematical Science at <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC)</a>.</div>
       </div>
-      <div class="home-timeline__item">
-        <div class="home-timeline__marker">2012</div>
+      <div class="home-experience__item">
         <div>In 2012, I received my Ph.D. in Applied Mathematics from UESTC, advised by <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a>.</div>
       </div>
-      <div class="home-timeline__item">
-        <div class="home-timeline__marker">2013–2014</div>
+      <div class="home-experience__item">
         <div>From 2013 to 2014, I worked with <a href="https://hkumath.hku.hk/~mng/">Prof. Michael Ng (SIAM/AMS Fellow)</a> as a post-doc at Hong Kong Baptist University.</div>
       </div>
-      <div class="home-timeline__item">
-        <div class="home-timeline__marker">2016–2017</div>
+      <div class="home-experience__item">
         <div>From 2016 to 2017, I worked with <a href="http://www.lx.it.pt/~bioucas/">Prof. Jose M. Bioucas Dias (IEEE Fellow)</a> as a visiting scholar at Instituto Superior Técnico.</div>
       </div>
     </div>
