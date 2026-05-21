@@ -27,7 +27,7 @@ author:
   name             : "  Xi-Le Zhao   (赵熙乐)"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Chengdu, China"
+  location         : "University of Electronic Science and Technology of China"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "xlzhao122003@163.com" 
@@ -152,7 +152,6 @@ social:
   name                   : "Xi-Le Zhao" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en"
-    - "https://github.com/zhaoxile"
     - "https://www.researchgate.net/profile/Xi-Le-Zhao-2"
 
 
