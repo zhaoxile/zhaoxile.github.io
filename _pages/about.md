@@ -11,11 +11,11 @@ redirect_from:
   <section class="home-hero">
     <div class="home-hero__content">
       <div class="home-kicker">Academic Homepage</div>
-      <div class="home-links">
-        <span>🎓 Google Scholar: <a href="https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en">Full Publications (10,000+ citations)</a></span>
-        <span>🏫 <a href="https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm">Official Faculty Homepage</a></span>
-      </div>
       <div class="home-research-line">🔎 Research Interests: Artificial Intelligence, Data Science, Computational Science</div>
+      <div class="home-links">
+        <a class="home-button home-button--primary" href="https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en">🎓 Full Publications (10,000+ citations)</a>
+        <a class="home-button home-button--ghost" href="https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm">🏫 Official Faculty Homepage</a>
+      </div>
     </div>
     <div class="home-hero__visual">
       <img src="/images/research.png" alt="Research illustration">
