@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Academic Services"
 permalink: /academic-services/
 author_profile: true  # 确保开启作者信息栏
 ---
@@ -34,7 +34,7 @@ author_profile: true  # 确保开启作者信息栏
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
 - SIAM Journal on Imaging Sciences
 - SIAM Journal on Scientific Computing
-- SIAM Journal on Matrix Analysis and Applications Computing
+- SIAM Journal on Matrix Analysis and Applications
 - SIAM Journal on Mathematics of Data Science
 - Advances in Computational Mathematics
 - Journal of Scientific Computing

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Teaching"
 permalink: /my-teaching/
 author_profile: true  # 确保开启作者信息栏
 ---

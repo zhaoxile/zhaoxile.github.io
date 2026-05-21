@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Tensor Jungles"
 permalink: /tensor-jungles/
 author_profile: true  # 确保开启作者信息栏
 ---

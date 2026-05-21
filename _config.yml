@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Xi-Le Zhao | UESTC"
 title_separator          : "-"
 name                     : &name "Xi-Le Zhao"
-description              : &description "Xi-Le Zhao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Xi-Le Zhao is a Professor at UESTC working on tensor methods, low-rank modeling, computational imaging, remote sensing image processing, and artificial intelligence."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://zhaoxile.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : #"https://orcid.org/yourorcidurl"
@@ -148,9 +148,12 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : "Xi-Le Zhao" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en"
+    - "https://github.com/zhaoxile"
+    - "https://www.researchgate.net/profile/Xi-Le-Zhao-2"
 
 
 # Analytics
