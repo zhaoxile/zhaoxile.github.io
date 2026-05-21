@@ -67,3 +67,126 @@
     padding: 0.75rem 0.8rem;
   }
 }
+
+/* Teaching page
+   ========================================================================== */
+
+.teaching-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.teaching-card {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(5.5rem, 34%) minmax(0, 1fr);
+  gap: 1.15rem;
+  min-height: 14.5rem;
+  padding: 1.15rem 1.25rem;
+  overflow: hidden;
+  color: #1f2937;
+  text-decoration: none;
+  border: 1px solid rgba(31, 41, 55, 0.1);
+  border-radius: 1rem;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.97), rgba(248, 250, 252, 0.92)),
+    radial-gradient(circle at top right, rgba(39, 80, 130, 0.13), transparent 45%);
+  box-shadow: 0 18px 45px rgba(15, 23, 42, 0.08);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.teaching-card::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 4px;
+  background: linear-gradient(180deg, #1d4ed8, #7c3aed);
+  opacity: 0.88;
+}
+
+.teaching-card:hover {
+  color: #111827;
+  text-decoration: none;
+  border-color: rgba(29, 78, 216, 0.28);
+  box-shadow: 0 22px 55px rgba(15, 23, 42, 0.12);
+  transform: translateY(-2px);
+}
+
+.teaching-card__cover {
+  align-self: center;
+  justify-self: center;
+  display: block;
+  width: 100%;
+  max-width: 8.3rem;
+}
+
+.teaching-card__cover img {
+  display: block;
+  width: 100%;
+  margin: 0;
+  border-radius: 0.45rem;
+  box-shadow: 0 16px 34px rgba(15, 23, 42, 0.18);
+}
+
+.teaching-card__body {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.teaching-card__eyebrow {
+  margin-bottom: 0.75rem;
+  color: #64748b;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.teaching-card__title {
+  color: #0f172a;
+  font-family: Georgia, "Times New Roman", "Noto Serif SC", "Songti SC", serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.42;
+}
+
+.teaching-card__meta {
+  margin-top: 0.7rem;
+  color: #475569;
+  font-size: 0.86rem;
+  line-height: 1.65;
+}
+
+.teaching-card__action {
+  margin-top: auto;
+  padding-top: 1.15rem;
+  color: #1d4ed8;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+@media (max-width: 760px) {
+  .teaching-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .teaching-card {
+    grid-template-columns: minmax(4.8rem, 7rem) minmax(0, 1fr);
+    min-height: 0;
+  }
+}
+
+@media (max-width: 460px) {
+  .teaching-card {
+    grid-template-columns: 1fr;
+  }
+
+  .teaching-card__cover {
+    max-width: 7rem;
+  }
+}
