@@ -10,9 +10,8 @@ author_profile: true  # 确保开启作者信息栏
       <img src="/images/book-ai-math.jpg" alt="人工智能中的数学：基础与实验 book cover">
     </span>
     <span class="teaching-card__body">
-      <span class="teaching-card__eyebrow">Undergraduate Course · ECE</span>
       <span class="teaching-card__title">人工智能中的数学：基础与实验</span>
-      <span class="teaching-card__meta">本科生课程 · 电子和计算机（ECE）关键核心领域科技创新领军人才培养计划课程</span>
+      <span class="teaching-card__meta">电子和计算机（ECE）关键核心领域科技创新领军人才培养计划课程</span>
       <span class="teaching-card__action">View book link →</span>
     </span>
   </a>
@@ -22,9 +21,7 @@ author_profile: true  # 确保开启作者信息栏
       <img src="/images/book-linear-algebra.jpg" alt="线性代数 book cover">
     </span>
     <span class="teaching-card__body">
-      <span class="teaching-card__eyebrow">Undergraduate Course</span>
       <span class="teaching-card__title">线性代数</span>
-      <span class="teaching-card__meta">本科生课程</span>
       <span class="teaching-card__action">View book link →</span>
     </span>
   </a>
