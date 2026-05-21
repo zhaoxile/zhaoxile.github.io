@@ -27,7 +27,7 @@ author:
   name             : "  Xi-Le Zhao   (赵熙乐)"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "University of Electronic Science and Technology of China"
+  location         : # "University of Electronic Science and Technology of China"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "xlzhao122003@163.com" 

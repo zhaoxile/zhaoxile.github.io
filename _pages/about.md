@@ -16,9 +16,6 @@ redirect_from:
         <a class="home-button home-button--primary" href="https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en">🎓 Full Publications (10,000+ citations)</a>
       </div>
     </div>
-    <div class="home-hero__visual">
-      <img src="/images/research.png" alt="Research illustration">
-    </div>
   </section>
 
   <section class="home-join">
