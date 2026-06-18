@@ -23,6 +23,13 @@ A curated list of representative publications. For the full list, please see my 
 ## 2026 {#y2026}
 
 <div class="pub-item">
+  <div class="pub-title">Empowering Tensor Network Decompositions by Nonlinear and Incompatible Tensor Contraction</div>
+  <div class="pub-authors">Sheng Liu, <strong>Xi-Le Zhao</strong>, Qin Jiang, Michael K. Ng</div>
+  <div class="pub-venue"><strong><em>SIAM Journal on Imaging Sciences</em></strong></div>
+</div>
+
+
+<div class="pub-item">
   <div class="pub-title">Gaussian Splatting-based Low-rank Tensor Representation for Multi-Dimensional Image Recovery</div>
   <div class="pub-authors">Yi-Ming Zeng, <strong>Xi-Le Zhao</strong>, Wei-Hao Wu, Teng-Yu Ji, Chao Wang</div>
   <div class="pub-venue"><strong><em>CVPR</em></strong></div>
