@@ -58,6 +58,7 @@ redirect_from:
 -->
 
     <div class="home-news-list">
+      <div class="home-news__item"><span><em>2026.06</em></span><div>Our work on Empowering Tensor Network Decompositions by Nonlinear and Incompatible Tensor Contraction is published in <strong><em>SIAM Journal on Imaging Sciences</em></strong>.</div></div>
       <div class="home-news__item"><span><em>2026.03</em></span><div>Our work on Neural Operator-Grounded Continuous Tensor Function Representation is available on <strong><em>Arxiv</em></strong>. <a href="https://arxiv.org/abs/2603.01812">[Link]</a></div></div>
       <div class="home-news__item"><span><em>2026.03</em></span><div>Our work on Mixture-of-Experts-Based Tensor Decomposition Structure Search Framework is available on <strong><em>Arxiv</em></strong>. <a href="https://arxiv.org/abs/2603.02720">[Link]</a></div></div>
       <div class="home-news__item"><span><em>2026.02</em></span><div>Our textbook on Mathematics in Artificial Intelligence Foundations and Experiments published by <strong><em>Higher Education Press</em></strong>. <a href="https://item.jd.com/10211512016165.html">[Link]</a></div></div>
