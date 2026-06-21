@@ -434,3 +434,101 @@
     max-width: 7rem;
   }
 }
+
+/* Group page
+   ========================================================================== */
+
+.group-shell {
+  color: #1f2937;
+}
+
+.group-hero {
+  margin: 0.35rem 0 1.4rem;
+  padding: 1.45rem 1.55rem;
+  border: 1px solid rgba(37, 99, 235, 0.12);
+  border-radius: 1.1rem;
+  background:
+    radial-gradient(circle at top right, rgba(14, 165, 233, 0.13), transparent 38%),
+    linear-gradient(135deg, #ffffff, #f8fbff);
+  box-shadow: 0 16px 42px rgba(15, 23, 42, 0.07);
+}
+
+.group-kicker {
+  margin-bottom: 0.45rem;
+  color: #2563eb;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.group-hero h1 {
+  margin: 0 0 0.45rem;
+  color: #0f172a;
+  font-family: Georgia, "Times New Roman", "Noto Serif SC", "Songti SC", serif;
+  font-size: 1.65rem;
+}
+
+.group-hero p {
+  max-width: 42rem;
+  margin: 0;
+  color: #475569;
+  line-height: 1.65;
+}
+
+.group-section {
+  margin: 1.2rem 0;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid rgba(226, 232, 240, 0.9);
+  border-radius: 1rem;
+  background: rgba(255, 255, 255, 0.78);
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.055);
+}
+
+.group-section h2 {
+  margin-top: 0;
+  margin-bottom: 0.85rem;
+  color: #0f172a;
+  font-family: Georgia, "Times New Roman", "Noto Serif SC", "Songti SC", serif;
+  font-size: 1.15rem;
+}
+
+.group-list {
+  display: grid;
+  gap: 0.65rem;
+}
+
+.group-row {
+  display: grid;
+  grid-template-columns: 7.5rem minmax(0, 1fr);
+  gap: 0.8rem;
+  padding: 0.75rem 0.85rem;
+  border: 1px solid rgba(226, 232, 240, 0.82);
+  border-radius: 0.8rem;
+  background: linear-gradient(180deg, rgba(248, 250, 252, 0.92), rgba(255, 255, 255, 0.92));
+}
+
+.group-row span {
+  color: #1d4ed8;
+  font-size: 0.82rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.group-row p {
+  margin: 0;
+  color: #334155;
+  line-height: 1.65;
+}
+
+.group-row em {
+  color: #64748b;
+  font-style: normal;
+}
+
+@media (max-width: 640px) {
+  .group-row {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}

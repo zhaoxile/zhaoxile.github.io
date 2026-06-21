@@ -6,6 +6,20 @@ author_profile: true
 
 A curated list of representative publications. For the full list, please see my [Google Scholar profile](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en).
 
+## Book Chapters {#book-chapters}
+
+<div class="pub-item">
+  <div class="pub-title">Transform Based Tensor Singular Value Decomposition in Multi dimensional Image Completion</div>
+  <div class="pub-authors"><strong>Xi-Le Zhao</strong></div>
+  <div class="pub-venue">Book chapter in <a href="https://shop.elsevier.com/books/tensors-for-data-processing/liu/978-0-12-824447-0" target="_blank" rel="noopener noreferrer"><strong><em>Tensors for Data Processing: Theory, Methods and Applications</em></strong></a>, Elsevier.</div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-title">Hyperspectral Image Reconstruction via Tensor Modeling</div>
+  <div class="pub-authors"><strong>Xi-Le Zhao</strong></div>
+  <div class="pub-venue">Book chapter in <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119687771" target="_blank" rel="noopener noreferrer"><strong><em>Machine Learning-Based Hyperspectral Image Processing</em></strong></a>, Wiley.</div>
+</div>
+
 ## Surveys {#surveys}
 
 <div class="pub-item">
