@@ -43,10 +43,10 @@ author_profile: true
     <h2>Former Undergraduate Students</h2>
     <div class="group-list">
       <div class="group-row"><span>Class of 2015</span><p>Xiao-Tong Li <em>PhD at Peking University</em></p></div>
-      <div class="group-row"><span>Class of 2017</span><p>Yu-Chun Miao <em>PhD at Wuhan University</em></p></div>
-      <div class="group-row"><span>Class of 2017</span><p>Yi-Si Luo <em>PhD at Xi'an Jiaotong University</em></p></div>
+      <div class="group-row"><span>Class of 2017</span><p><a href="https://miaoyuchun.github.io/">Yu-Chun Miao</a> <em>PhD at Wuhan University</em></p></div>
+      <div class="group-row"><span>Class of 2017</span><p><a href="https://yisiluo.github.io/">Yi-Si Luo</a> <em>PhD at Xi'an Jiaotong University</em></p></div>
       <div class="group-row"><span>Class of 2018</span><p>Zhi-Yuan Chen <em>PhD at Renmin University of China</em></p></div>
-      <div class="group-row"><span>Class of 2018</span><p>Jun-Hao Zhuang <em>PhD at The Chinese University of Hong Kong</em></p></div>
+      <div class="group-row"><span>Class of 2018</span><p><a href="https://zhuang2002.github.io/">Jun-Hao Zhuang</a> <em>PhD at The Chinese University of Hong Kong</em></p></div>
       <div class="group-row"><span>Class of 2018</span><p>Xiao-Le Tang <em>PhD at Xi'an Jiaotong University</em></p></div>
       <div class="group-row"><span>Class of 2019</span><p>Jia-Yi Li <em>PhD at The Chinese University of Hong Kong</em></p></div>
       <div class="group-row"><span>Class of 2019</span><p>Jin-Yu Xie <em>PhD at Oregon State University</em></p></div>
