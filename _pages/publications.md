@@ -16,7 +16,7 @@ A curated list of representative publications. For the full list, please see my 
 
 <div class="pub-item">
   <div class="pub-title">Hyperspectral Image Reconstruction via Tensor Modeling</div>
-  <div class="pub-authors">Yu-Bang Zheng, Jian-Li Wang, and <strong>Xi-Le Zhao</strong></div>
+  <div class="pub-authors">Yu-Bang Zheng, Jian-Li Wang, <strong>Xi-Le Zhao</strong></div>
   <div class="pub-venue">Book chapter in <a href="https://www.wiley.com/en-ie/shop/general-introductory-electrical-electronics-engineering/machine-learning-based-hyperspectral-image-processing-p-9781394267859" target="_blank" rel="noopener noreferrer"><strong><em>Machine Learning-Based Hyperspectral Image Processing</em></strong></a>, Wiley.</div>
 </div>
 
