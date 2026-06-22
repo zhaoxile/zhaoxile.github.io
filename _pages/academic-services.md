@@ -8,23 +8,24 @@ author_profile: true  # 确保开启作者信息栏
 ## Program Committee
 - Senior Program Committee for AAAI
 - Program Committee for IJCAI
-- Technical Program Committee (TPC) for ACM MM
+- Technical Program Committee for ACM MM
 
 ## Editor
 - Journal of Mathematics
 - International Journal of Applied and Computational Mathematics
 - Scientific Reports
 
-### Special Issue Guest Editor
-- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (Generative AI for Remote Sensing Image Processing) [[Open]](http://mc.manuscriptcentral.com/jstars)
+### Guest Editor
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (Generative AI for Remote Sensing Image Processing)
 - Optik (Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery: Theory, Models, Algorithms, and Applications)
-- Remote Sensing (Knowledge-Driven and/or Model-driven and Data-driven Methods for Remote Sensing Image Processing) [[Open]](https://www.mdpi.com/journal/remotesensing/special_issues/483C37936H)
-- Sensor (Multi-Modality Sensing Data Analysis and Its Application in Image Processing and Vision) [[Open]](https://www.mdpi.com/journal/sensors/special_issues/M8X8580H09)
+- Remote Sensing (Knowledge-Driven and/or Model-driven and Data-driven Methods for Remote Sensing Image Processing) [[Link]](https://www.mdpi.com/journal/remotesensing/special_issues/483C37936H)
+- Sensors (Multi-Modality Sensing Data Analysis and Its Application in Image Processing and Vision) [[Link]](https://www.mdpi.com/journal/sensors/special_issues/M8X8580H09)
 - Computational Intelligence (Intelligent Remote Sensing Image Computing: Theory, Models, Algorithms, and  Applications)
   
 ## Jury Member for PhD Thesis Defense
 - Skoltech, supervised by Professor Andrzej Cichocki
 - The University of Hong Kong
+- City University of Hong Kong
 - Beijing Normal-Hong Kong Baptist University
   
 ## Journal Reviewer
@@ -32,6 +33,7 @@ author_profile: true  # 确保开启作者信息栏
 - ACL, ICML, ICLR, CVPR, ICCV, ECCV, KDD, IJCAI, ACM MM
 - European Journal of Operational Research (EJOR)
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
+- Proceedings of the IEEE
 - SIAM Journal on Imaging Sciences
 - SIAM Journal on Scientific Computing
 - SIAM Journal on Matrix Analysis and Applications
