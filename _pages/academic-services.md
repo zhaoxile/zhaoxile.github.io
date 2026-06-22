@@ -30,7 +30,7 @@ author_profile: true  # 确保开启作者信息栏
   
 ## Journal Reviewer
 
-- ACL, ICML, ICLR, CVPR, ICCV, ECCV, KDD, IJCAI, ACM MM
+- ICLR, ICML, [NeurIPS](https://neurips.cc/), CVPR, ICCV, ECCV, KDD, IJCAI, ACM MM
 - European Journal of Operational Research (EJOR)
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
 - Proceedings of the IEEE
@@ -38,10 +38,7 @@ author_profile: true  # 确保开启作者信息栏
 - SIAM Journal on Scientific Computing
 - SIAM Journal on Matrix Analysis and Applications
 - SIAM Journal on Mathematics of Data Science
-- Advances in Computational Mathematics
-- Journal of Scientific Computing
-- Journal of Mathematical Imaging and Vision
-- Inverse Problems and Imaging
+- Science China Information Sciences
 - ISPRS Journal of Photogrammetry and Remote Sensing
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Geoscience and Remote Sensing
