@@ -51,16 +51,4 @@ author_profile: true  # 确保开启作者信息栏
 - IEEE Transactions on Cybernetics
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Multimedia
-- ACM Transactions on Intelligent Systems and Technology
-- Neural Networks
-- Information Fusion
-- Signal Processing
-- Journal of Computational and Applied Mathematics
-- Applied Mathematical Modelling
-- Applied Mathematics and Computation
-- Applied Mathematics Letters
-- Journal of the Franklin Institute
-- Pattern Recognition
-- Information Science
-- Knowledge-Based Systems
-- IGARSS 2024 Student Paper Contest
+- IGARSS Student Paper Contest
