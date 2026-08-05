@@ -429,6 +429,144 @@
   color: #7c3aed;
 }
 
+.teaching-card__cover--interactive {
+  display: grid;
+  aspect-ratio: 4 / 5;
+  place-items: center;
+  border: 1px solid rgba(29, 78, 216, 0.18);
+  border-radius: 0.45rem;
+  background:
+    linear-gradient(rgba(29, 78, 216, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(29, 78, 216, 0.08) 1px, transparent 1px),
+    #f8fbff;
+  background-size: 1.15rem 1.15rem;
+  box-shadow: 0 16px 34px rgba(15, 23, 42, 0.12);
+}
+
+.teaching-card__matrix {
+  color: #1d4ed8;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2.1rem;
+  font-weight: 700;
+}
+
+.teaching-card__matrix em {
+  margin-left: 0.16em;
+  color: #7c3aed;
+  font-weight: 400;
+}
+
+/* Interactive linear algebra page
+   ========================================================================== */
+
+.linear-algebra-demos {
+  display: grid;
+  gap: 1rem;
+}
+
+.linear-algebra-demo {
+  display: grid;
+  grid-template-columns: minmax(13rem, 0.9fr) minmax(16rem, 1.1fr);
+  min-height: 18rem;
+  overflow: hidden;
+  color: #0f172a;
+  border: 1px solid rgba(148, 163, 184, 0.35);
+  border-radius: 0.5rem;
+  background: #fff;
+  box-shadow: 0 18px 45px rgba(15, 23, 42, 0.08);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.linear-algebra-demo:hover {
+  color: #0f172a;
+  text-decoration: none;
+  border-color: rgba(29, 78, 216, 0.3);
+  box-shadow: 0 22px 55px rgba(15, 23, 42, 0.12);
+  transform: translateY(-2px);
+}
+
+.linear-algebra-demo__visual {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 0.75rem;
+  min-height: 18rem;
+  padding: 1.5rem;
+  overflow: hidden;
+  background: #f8fafc;
+}
+
+.linear-algebra-demo__grid {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(rgba(100, 116, 139, 0.12) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(100, 116, 139, 0.12) 1px, transparent 1px);
+  background-size: 1.35rem 1.35rem;
+}
+
+.linear-algebra-demo__shape {
+  position: relative;
+  z-index: 1;
+  display: block;
+  width: 5.2rem;
+  height: 5.2rem;
+  justify-self: center;
+  border: 3px solid #176b87;
+  background: rgba(23, 107, 135, 0.13);
+}
+
+.linear-algebra-demo__shape--output {
+  border-color: #c64e3b;
+  background: rgba(198, 78, 59, 0.13);
+  transform: skewY(-18deg) scaleX(0.82);
+}
+
+.linear-algebra-demo__arrow {
+  position: relative;
+  z-index: 1;
+  color: #475569;
+  font-size: 1.6rem;
+}
+
+.linear-algebra-demo__body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.linear-algebra-demo__eyebrow {
+  margin-bottom: 0.65rem;
+  color: #7c3aed;
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.linear-algebra-demo__title {
+  color: #0f172a;
+  font-family: Georgia, "Times New Roman", "Noto Serif SC", "Songti SC", serif;
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+.linear-algebra-demo__meta {
+  margin-top: 0.8rem;
+  color: #475569;
+  font-size: 0.9rem;
+  line-height: 1.7;
+}
+
+.linear-algebra-demo__action {
+  margin-top: 1.25rem;
+  color: #1d4ed8;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
 @media (max-width: 760px) {
   .teaching-grid {
     grid-template-columns: 1fr;
@@ -437,6 +575,14 @@
   .teaching-card {
     grid-template-columns: minmax(4.8rem, 7rem) minmax(0, 1fr);
     min-height: 0;
+  }
+
+  .linear-algebra-demo {
+    grid-template-columns: 1fr;
+  }
+
+  .linear-algebra-demo__visual {
+    min-height: 13rem;
   }
 }
 
