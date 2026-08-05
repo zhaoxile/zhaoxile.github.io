@@ -406,12 +406,27 @@
 }
 
 .teaching-card__action {
-  margin-top: auto;
-  padding-top: 1.15rem;
   color: #1d4ed8;
   font-size: 0.78rem;
   font-weight: 700;
   letter-spacing: 0.02em;
+}
+
+.teaching-card__body > .teaching-card__action {
+  margin-top: auto;
+  padding-top: 1.15rem;
+}
+
+.teaching-card__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.9rem;
+  margin-top: auto;
+  padding-top: 1.15rem;
+}
+
+.teaching-card__action--demo {
+  color: #7c3aed;
 }
 
 @media (max-width: 760px) {

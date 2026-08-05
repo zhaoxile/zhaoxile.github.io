@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>矩阵乘法互动实验室：把房子变成另一种形状</title>
+<style>
+:root{--paper:#f4f0e7;--panel:#fffdf8;--ink:#19231f;--muted:#667069;--line:#d8d2c5;--blue:#176b87;--red:#c64e3b;--gold:#d49a27;--green:#29755e;--shadow:0 18px 50px rgba(53,49,39,.10)}
+*{box-sizing:border-box}html,body{margin:0;min-height:100%;background:var(--paper);color:var(--ink);font-family:"Songti SC","Noto Serif SC",Georgia,serif}button,input{font:inherit}
+body{padding:24px}.shell{max-width:1500px;margin:auto}.mast{display:flex;justify-content:space-between;gap:20px;align-items:flex-end;margin:0 0 18px}.eyebrow{font:700 12px/1.2 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.14em;color:var(--red);text-transform:uppercase}.mast h1{font-size:clamp(28px,4vw,54px);line-height:1.05;margin:8px 0 5px;font-weight:650;letter-spacing:-.035em}.mast p{margin:0;color:var(--muted);font-size:15px}.equation{font-family:Georgia,"Times New Roman",serif;background:#e9e2d4;border:1px solid #d5ccba;padding:10px 16px;border-radius:4px;font-size:22px;white-space:nowrap}
+.workspace{display:grid;grid-template-columns:310px 1fr;gap:16px}.controls,.stage{background:var(--panel);border:1px solid var(--line);box-shadow:var(--shadow)}.controls{padding:20px;display:flex;flex-direction:column;gap:18px}.section-title{display:flex;align-items:baseline;justify-content:space-between;border-bottom:1px solid var(--line);padding-bottom:8px;margin-bottom:10px}.section-title b{font-size:15px}.section-title span{font:11px ui-monospace,monospace;color:var(--muted)}
+.matrix-box{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;position:relative;padding:3px 12px}.matrix-box:before,.matrix-box:after{content:"";position:absolute;top:0;bottom:0;width:8px;border-top:2px solid var(--ink);border-bottom:2px solid var(--ink)}.matrix-box:before{left:0;border-left:2px solid var(--ink)}.matrix-box:after{right:0;border-right:2px solid var(--ink)}.cell{display:flex;align-items:center;gap:7px;background:#f6f1e7;padding:7px}.cell label{font:12px ui-monospace,monospace;color:var(--muted)}.cell input{min-width:0;width:100%;border:0;border-bottom:1px solid #a59d8d;background:transparent;text-align:center;font:600 18px ui-monospace,monospace;color:var(--ink);outline:none}.cell input:focus{border-color:var(--red)}
+.preset-grid{display:grid;grid-template-columns:1fr 1fr;gap:7px}.preset{border:1px solid var(--line);background:#f8f4ec;padding:9px 6px;cursor:pointer;color:var(--ink);transition:.15s}.preset:hover,.preset:focus{border-color:var(--red);color:var(--red);transform:translateY(-1px);outline:none}.preset.active{background:var(--ink);color:white;border-color:var(--ink)}
+.range-row{display:grid;grid-template-columns:1fr auto;align-items:center;gap:8px}.range-row label{font-size:13px}.range-row output{font:12px ui-monospace,monospace;color:var(--red);min-width:32px;text-align:right}input[type=range]{width:100%;accent-color:var(--red)}
+.actions{display:grid;grid-template-columns:1fr 1fr;gap:8px}.action{border:0;background:var(--red);color:white;padding:11px;cursor:pointer}.action.secondary{background:var(--ink)}.action:hover{filter:brightness(.93)}
+.readout{margin-top:auto;background:#f0eadf;border-left:3px solid var(--gold);padding:13px}.readout dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:8px 10px;font-size:13px}.readout dt{color:var(--muted)}.readout dd{margin:0;font-family:ui-monospace,monospace;text-align:right}.status{margin-top:10px;font-size:12px;line-height:1.55;color:var(--muted)}.status strong{color:var(--red)}
+.stage{padding:14px;min-width:0}.canvas-wrap{position:relative;height:min(69vh,760px);min-height:510px;background:#fbfaf6;border:1px solid var(--line);overflow:hidden}.views{position:absolute;inset:0;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);grid-template-rows:minmax(0,1fr);overflow:hidden}.view{position:relative;min-width:0;min-height:0;height:100%;overflow:hidden}.view:first-child{border-right:1px solid var(--line)}canvas{position:absolute;inset:0;width:100%;height:100%;display:block;touch-action:none}.view-title{position:absolute;top:13px;left:15px;z-index:2;background:rgba(255,253,248,.91);border:1px solid var(--line);padding:7px 10px;font-size:13px;pointer-events:none}.view-title b{display:block;font-size:15px;margin-bottom:1px}.view-title span{font:11px ui-monospace,monospace;color:var(--muted)}.legend{position:absolute;right:15px;bottom:13px;z-index:3;background:rgba(255,253,248,.93);border:1px solid var(--line);padding:8px 10px;display:flex;gap:13px;font:11px ui-monospace,monospace}.dot{width:8px;height:8px;border-radius:50%;display:inline-block;margin-right:4px}.hint{margin:10px 3px 1px;display:flex;justify-content:space-between;gap:15px;color:var(--muted);font-size:12px}.hint strong{color:var(--ink)}
+@media(max-width:960px){body{padding:12px}.mast{align-items:flex-start;flex-direction:column}.workspace{grid-template-columns:1fr}.controls{display:grid;grid-template-columns:1fr 1fr}.readout{margin:0}.canvas-wrap{height:780px}.views{grid-template-columns:1fr;grid-template-rows:1fr 1fr}.view:first-child{border-right:0;border-bottom:1px solid var(--line)}.hint{flex-direction:column}.equation{font-size:18px}.matrix-section,.preset-section{min-width:0}}
+@media(max-width:620px){.controls{display:flex}.canvas-wrap{height:680px;min-height:600px}.legend{display:none}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<main class="shell">
+<header class="mast">
+  <div><div class="eyebrow">Interactive Linear Algebra · 01</div><h1>矩阵如何改变一座房子？</h1><p>拖动房子的彩色顶点，或修改矩阵；左侧输入空间与右侧输出空间会即时联动。</p></div>
+  <div class="equation"><i>y</i> = <i>A</i><i>x</i></div>
+</header>
+<section class="workspace">
+<aside class="controls">
+  <div class="matrix-section">
+    <div class="section-title"><b>变换矩阵 A</b><span>EDIT VALUES</span></div>
+    <div class="matrix-box">
+      <div class="cell"><label>a₁₁</label><input id="a" type="number" step="0.1" value="1"></div>
+      <div class="cell"><label>a₁₂</label><input id="b" type="number" step="0.1" value="0.6"></div>
+      <div class="cell"><label>a₂₁</label><input id="c" type="number" step="0.1" value="0"></div>
+      <div class="cell"><label>a₂₂</label><input id="d" type="number" step="0.1" value="1"></div>
+    </div>
+  </div>
+  <div class="preset-section">
+    <div class="section-title"><b>典型变换</b><span>PRESETS</span></div>
+    <div class="preset-grid">
+      <button class="preset" data-m="1,0,0,1">恒等</button><button class="preset active" data-m="1,0.6,0,1">剪切</button>
+      <button class="preset" data-m="0.707,-0.707,0.707,0.707">旋转 45°</button><button class="preset" data-m="-1,0,0,1">左右翻转</button>
+      <button class="preset" data-m="1.5,0,0,0.65">拉伸</button><button class="preset" data-m="1,0,0,0">投影到 x 轴</button>
+    </div>
+  </div>
+  <div>
+    <div class="section-title"><b>过渡状态</b><span>x → Ax</span></div>
+    <div class="range-row"><label for="mix">变换进度</label><output id="mixOut">100%</output></div>
+    <input id="mix" type="range" min="0" max="1" value="1" step="0.001">
+  </div>
+  <div class="actions"><button id="play" class="action">播放变换</button><button id="reset" class="action secondary">重置房子</button></div>
+  <div class="readout">
+    <dl><dt>det(A)</dt><dd id="det">1.000</dd><dt>面积倍率</dt><dd id="area">1.000×</dd><dt>方向</dt><dd id="orientation">保持</dd><dt>维数</dt><dd id="rank">二维</dd></dl>
+    <div class="status" id="status">矩阵保持面积，但改变了房子的角度。</div>
+  </div>
+</aside>
+<section class="stage">
+  <div class="canvas-wrap">
+    <div class="views">
+      <div class="view"><div class="view-title"><b>输入空间</b><span>x ∈ ℝ² · 可拖动顶点</span></div><canvas id="source"></canvas></div>
+      <div class="view"><div class="view-title"><b>输出空间</b><span>Ax ∈ ℝ² · 矩阵作用后</span></div><canvas id="target"></canvas></div>
+    </div>
+    <div class="legend"><span><i class="dot" style="background:var(--blue)"></i>输入 x</span><span><i class="dot" style="background:var(--red)"></i>输出 Ax</span><span><i class="dot" style="background:var(--gold)"></i>基向量</span></div>
+  </div>
+  <div class="hint"><span><strong>操作：</strong>拖动左图任意彩色顶点，观察右图对应点如何移动。</span><span>快捷键：空格播放 · R 重置 · S 保存图像</span></div>
+</section>
+</section>
+</main>
+<script>
+(()=>{
+'use strict';
+const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+const inputs=['a','b','c','d'].map(id=>$('#'+id));
+const mix=$('#mix'), mixOut=$('#mixOut'), src=$('#source'), dst=$('#target');
+const palette={grid:'#ddd8cd',axis:'#8e948e',blue:'#176b87',red:'#c64e3b',gold:'#d49a27',green:'#29755e',paper:'#fbfaf6',ink:'#19231f'};
+const original=[[-2.2,-1.7],[2.2,-1.7],[2.2,1.25],[0,3.15],[-2.2,1.25],[-2.2,-1.7],[-.65,-1.7],[-.65,.15],[.65,.15],[.65,-1.7]];
+let house=original.map(p=>[...p]), drag=-1, playing=false, start=0, raf=0;
+function matrix(){return inputs.map(i=>Number(i.value)||0)}
+function transform(p,m=matrix(),t=1){const [a,b,c,d]=m;return [(1-t)*p[0]+t*(a*p[0]+b*p[1]),(1-t)*p[1]+t*(c*p[0]+d*p[1])];}
+function setupCanvas(canvas){const r=canvas.getBoundingClientRect(), ratio=Math.min(devicePixelRatio||1,2);canvas.width=Math.round(r.width*ratio);canvas.height=Math.round(r.height*ratio);const x=canvas.getContext('2d');x.setTransform(ratio,0,0,ratio,0,0);return {ctx:x,w:r.width,h:r.height};}
+function mapPoint(p,w,h){const scale=Math.min(w,h)/12;return [w/2+p[0]*scale,h/2-p[1]*scale];}
+function unmapPoint(x,y,w,h){const scale=Math.min(w,h)/12;return [(x-w/2)/scale,(h/2-y)/scale];}
+function grid(ctx,w,h){ctx.clearRect(0,0,w,h);ctx.fillStyle=palette.paper;ctx.fillRect(0,0,w,h);const s=Math.min(w,h)/12;ctx.lineWidth=1;ctx.strokeStyle=palette.grid;for(let x=w/2%s;x<w;x+=s){ctx.beginPath();ctx.moveTo(x,0);ctx.lineTo(x,h);ctx.stroke()}for(let y=h/2%s;y<h;y+=s){ctx.beginPath();ctx.moveTo(0,y);ctx.lineTo(w,y);ctx.stroke()}ctx.strokeStyle=palette.axis;ctx.lineWidth=1.3;ctx.beginPath();ctx.moveTo(0,h/2);ctx.lineTo(w,h/2);ctx.moveTo(w/2,0);ctx.lineTo(w/2,h);ctx.stroke();arrow(ctx,mapPoint([0,0],w,h),mapPoint([1,0],w,h),palette.gold,'e₁');arrow(ctx,mapPoint([0,0],w,h),mapPoint([0,1],w,h),palette.green,'e₂');}
+function arrow(ctx,p,q,color,label){const a=Math.atan2(q[1]-p[1],q[0]-p[0]);ctx.strokeStyle=color;ctx.fillStyle=color;ctx.lineWidth=2.2;ctx.beginPath();ctx.moveTo(...p);ctx.lineTo(...q);ctx.stroke();ctx.beginPath();ctx.moveTo(...q);ctx.lineTo(q[0]-9*Math.cos(a-.42),q[1]-9*Math.sin(a-.42));ctx.lineTo(q[0]-9*Math.cos(a+.42),q[1]-9*Math.sin(a+.42));ctx.closePath();ctx.fill();ctx.font='12px ui-monospace,monospace';ctx.fillText(label,q[0]+7,q[1]-7)}
+function polygon(ctx,points,w,h,color,fill,interactive=false){const q=points.map(p=>mapPoint(p,w,h));ctx.beginPath();q.forEach((p,i)=>i?ctx.lineTo(...p):ctx.moveTo(...p));ctx.closePath();ctx.fillStyle=fill;ctx.fill();ctx.strokeStyle=color;ctx.lineWidth=3;ctx.lineJoin='round';ctx.stroke();const unique=[0,1,2,3,4,6,7,8,9];unique.forEach((idx,k)=>{const p=q[idx];ctx.beginPath();ctx.arc(p[0],p[1],interactive?6:4,0,Math.PI*2);ctx.fillStyle=k===3?palette.gold:color;ctx.fill();ctx.strokeStyle=palette.paper;ctx.lineWidth=2;ctx.stroke()});}
+function draw(){const S=setupCanvas(src),T=setupCanvas(dst),m=matrix(),t=Number(mix.value);grid(S.ctx,S.w,S.h);grid(T.ctx,T.w,T.h);polygon(S.ctx,house,S.w,S.h,palette.blue,'rgba(23,107,135,.13)',true);const transformed=house.map(p=>transform(p,m,t));polygon(T.ctx,transformed,T.w,T.h,palette.red,'rgba(198,78,59,.13)');const o=mapPoint([0,0],T.w,T.h);arrow(T.ctx,o,mapPoint(transform([1,0],m,t),T.w,T.h),palette.gold,'Ae₁');arrow(T.ctx,o,mapPoint(transform([0,1],m,t),T.w,T.h),palette.green,'Ae₂');updateReadout();}
+function updateReadout(){const [a,b,c,d]=matrix(),det=a*d-b*c,abs=Math.abs(det);$('#det').textContent=det.toFixed(3);$('#area').textContent=abs.toFixed(3)+'×';$('#orientation').textContent=abs<1e-6?'退化':det<0?'翻转':'保持';$('#rank').textContent=abs<1e-6?(Math.abs(a)+Math.abs(b)+Math.abs(c)+Math.abs(d)<1e-8?'零维':'一维'):'二维';mixOut.textContent=Math.round(Number(mix.value)*100)+'%';let text;if(abs<1e-6)text='<strong>临界状态：</strong>房子被压到更低维，矩阵不可逆。';else if(det<0)text='房子的方向被翻转，面积变为原来的 '+abs.toFixed(2)+' 倍。';else if(Math.abs(abs-1)<.01)text='矩阵保持面积，但可能改变角度、方向或位置关系。';else text='矩阵保持直线与平行关系，面积缩放为 '+abs.toFixed(2)+' 倍。';$('#status').innerHTML=text;}
+function setM(v){inputs.forEach((x,i)=>x.value=Number(v[i].toFixed? v[i].toFixed(3):v[i]));$$('.preset').forEach(x=>x.classList.toggle('active',x.dataset.m===v.join(',')));draw()}
+inputs.forEach(x=>x.addEventListener('input',()=>{$$('.preset').forEach(p=>p.classList.remove('active'));draw()}));mix.addEventListener('input',()=>{playing=false;cancelAnimationFrame(raf);draw()});
+$$('.preset').forEach(btn=>btn.addEventListener('click',()=>{setM(btn.dataset.m.split(',').map(Number));$$('.preset').forEach(x=>x.classList.toggle('active',x===btn));play()}));
+function play(){playing=true;start=performance.now();$('#play').textContent='暂停';function tick(now){if(!playing)return;const u=Math.min(1,(now-start)/1200),e=1-Math.pow(1-u,3);mix.value=e;draw();if(u<1)raf=requestAnimationFrame(tick);else{playing=false;$('#play').textContent='播放变换'}}raf=requestAnimationFrame(tick)}
+$('#play').addEventListener('click',()=>{if(playing){playing=false;cancelAnimationFrame(raf);$('#play').textContent='播放变换'}else play()});
+$('#reset').addEventListener('click',()=>{house=original.map(p=>[...p]);draw()});
+function pointerPos(e,canvas){const r=canvas.getBoundingClientRect(),q=e.touches?e.touches[0]:e;return [q.clientX-r.left,q.clientY-r.top,r.width,r.height]}
+function uniqueIndices(){return [0,1,2,3,4,6,7,8,9]}
+src.addEventListener('pointerdown',e=>{const [x,y,w,h]=pointerPos(e,src);let best=18;drag=-1;uniqueIndices().forEach(i=>{const p=mapPoint(house[i],w,h),d=Math.hypot(x-p[0],y-p[1]);if(d<best){best=d;drag=i}});if(drag>=0){src.setPointerCapture(e.pointerId);e.preventDefault()}});
+src.addEventListener('pointermove',e=>{if(drag<0)return;const [x,y,w,h]=pointerPos(e,src),p=unmapPoint(x,y,w,h),old=house[drag];house.forEach((q,i)=>{if(i!==drag&&q[0]===old[0]&&q[1]===old[1])house[i]=[...p]});house[drag]=p;draw()});
+src.addEventListener('pointerup',()=>drag=-1);src.addEventListener('pointercancel',()=>drag=-1);
+window.addEventListener('resize',draw);window.addEventListener('keydown',e=>{if(e.code==='Space'){e.preventDefault();$('#play').click()}if(e.key.toLowerCase()==='r')$('#reset').click();if(e.key.toLowerCase()==='s'){const c=document.createElement('canvas'),r=src.width/src.getBoundingClientRect().width;c.width=src.width+dst.width;c.height=Math.max(src.height,dst.height);const x=c.getContext('2d');x.drawImage(src,0,0);x.drawImage(dst,src.width,0);const a=document.createElement('a');a.download='矩阵变换-房子.png';a.href=c.toDataURL('image/png');a.click()}});
+requestAnimationFrame(draw);
+})();
+</script>
+</body>
+</html>
