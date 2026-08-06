@@ -20,11 +20,12 @@ author_profile: true
     </span>
   </a>
   <a class="linear-algebra-demo" href="/demos/linear-combination.html" target="_blank" rel="noopener noreferrer">
-    <span class="linear-algebra-demo__visual" aria-hidden="true">
-      <span class="linear-algebra-demo__grid"></span>
-      <span class="linear-algebra-demo__shape linear-algebra-demo__shape--input"></span>
-      <span class="linear-algebra-demo__arrow">+</span>
-      <span class="linear-algebra-demo__shape linear-algebra-demo__shape--output"></span>
+    <span class="linear-algebra-demo__visual linear-algebra-demo__visual--images" aria-hidden="true">
+      <span class="linear-algebra-demo__image-card"><img src="/images/interactive-linear-algebra/li.png" alt=""><small>I · li</small></span>
+      <span class="linear-algebra-demo__image-plus">+</span>
+      <span class="linear-algebra-demo__image-card"><img src="/images/interactive-linear-algebra/yao.png" alt=""><small>J · yao</small></span>
+      <span class="linear-algebra-demo__image-equals">→</span>
+      <span class="linear-algebra-demo__image-card linear-algebra-demo__image-card--mix"><img src="/images/interactive-linear-algebra/li.png" alt=""><img src="/images/interactive-linear-algebra/yao.png" alt=""><small>αI + (1 − α)J</small></span>
     </span>
     <span class="linear-algebra-demo__body">
       <span class="linear-algebra-demo__eyebrow">Interactive Linear Algebra · 02</span>
