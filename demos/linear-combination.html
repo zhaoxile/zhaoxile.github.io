@@ -90,9 +90,14 @@ const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
 const imageI=$('#imageI'), imageJ=$('#imageJ'), canvas=$('#result'), ctx=canvas.getContext('2d',{willReadFrequently:true});
 const alpha=$('#alpha'), alphaOut=$('#alphaOut');
 const buffers=[document.createElement('canvas'),document.createElement('canvas')];
-let pixelsI=null,pixelsJ=null,ready=0,playing=false,direction=1,raf=0,last=0;
+let pixelsI=null,pixelsJ=null,playing=false,direction=1,raf=0,last=0;
+const loaded=[false,false];
+function markLoaded(index){
+  if(loaded[index])return;
+  loaded[index]=true;
+  if(loaded.every(Boolean))prepare();
+}
 function prepare(){
-  if(++ready<2)return;
   const width=Math.min(imageI.naturalWidth,imageJ.naturalWidth),height=Math.min(imageI.naturalHeight,imageJ.naturalHeight);
   canvas.width=width;canvas.height=height;
   buffers.forEach(b=>{b.width=width;b.height=height});
@@ -117,7 +122,8 @@ function render(){
 }
 function stop(){playing=false;cancelAnimationFrame(raf);$('#play').textContent='▶ 播放';}
 function play(){if(playing){stop();return}playing=true;last=performance.now();$('#play').textContent='Ⅱ 暂停';function tick(now){if(!playing)return;const dt=(now-last)/4000;last=now;let v=Number(alpha.value)+direction*dt;if(v>=1){v=1;direction=-1}else if(v<=0){v=0;direction=1}alpha.value=v;render();raf=requestAnimationFrame(tick)}raf=requestAnimationFrame(tick)}
-imageI.addEventListener('load',prepare);imageJ.addEventListener('load',prepare);imageI.addEventListener('error',fail);imageJ.addEventListener('error',fail);
+imageI.addEventListener('load',()=>markLoaded(0));imageJ.addEventListener('load',()=>markLoaded(1));imageI.addEventListener('error',fail);imageJ.addEventListener('error',fail);
+if(imageI.complete&&imageI.naturalWidth)markLoaded(0);if(imageJ.complete&&imageJ.naturalWidth)markLoaded(1);
 alpha.addEventListener('input',()=>{stop();render()});
 $$('.preset').forEach(p=>p.addEventListener('click',()=>{stop();alpha.value=p.dataset.alpha;render()}));
 $('#play').addEventListener('click',play);$('#reverse').addEventListener('click',()=>{direction*=-1;if(!playing)play()});$('#reset').addEventListener('click',()=>{stop();direction=1;alpha.value=.5;render()});
