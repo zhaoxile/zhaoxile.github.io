@@ -470,11 +470,20 @@
   min-height: 18rem;
   overflow: hidden;
   color: #0f172a;
+  text-decoration: none !important;
   border: 1px solid rgba(148, 163, 184, 0.35);
   border-radius: 0.5rem;
   background: #fff;
   box-shadow: 0 18px 45px rgba(15, 23, 42, 0.08);
   transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.linear-algebra-demo:hover,
+.linear-algebra-demo:focus,
+.linear-algebra-demo:active,
+.linear-algebra-demo:visited {
+  color: #0f172a;
+  text-decoration: none !important;
 }
 
 .linear-algebra-demo:hover {
