@@ -21,11 +21,10 @@ author_profile: true
   </a>
   <a class="linear-algebra-demo" href="/demos/linear-combination.html" target="_blank" rel="noopener noreferrer">
     <span class="linear-algebra-demo__visual linear-algebra-demo__visual--images" aria-hidden="true">
-      <span class="linear-algebra-demo__image-inputs">
-        <span class="linear-algebra-demo__image-card"><img src="/images/interactive-linear-algebra/li.png" alt=""><small>I · li</small></span>
-        <span class="linear-algebra-demo__image-card"><img src="/images/interactive-linear-algebra/yao.png" alt=""><small>J · yao</small></span>
-      </span>
-      <span class="linear-algebra-demo__image-arrow">→</span>
+      <span class="linear-algebra-demo__image-card"><img src="/images/interactive-linear-algebra/li.png" alt=""><small>I</small></span>
+      <span class="linear-algebra-demo__image-operator">+</span>
+      <span class="linear-algebra-demo__image-card linear-algebra-demo__image-card--j"><img src="/images/interactive-linear-algebra/yao.png" alt=""><small>J</small></span>
+      <span class="linear-algebra-demo__image-operator">=</span>
       <span class="linear-algebra-demo__image-card linear-algebra-demo__image-card--mix"><img src="/images/interactive-linear-algebra/li.png" alt=""><img src="/images/interactive-linear-algebra/yao.png" alt=""><small>αI + (1 − α)J</small></span>
     </span>
     <span class="linear-algebra-demo__body">
