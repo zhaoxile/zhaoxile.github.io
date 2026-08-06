@@ -595,14 +595,16 @@
 
 .linear-algebra-demo__image-card > small {
   position: absolute;
-  right: 0.3rem;
+  left: 50%;
   bottom: 0.3rem;
   z-index: 2;
   padding: 0.18rem 0.28rem;
   color: #fff;
   background: rgba(15, 23, 42, 0.78);
   font: 600 0.58rem/1 ui-monospace, SFMono-Regular, Menlo, monospace;
+  text-align: center;
   white-space: nowrap;
+  transform: translateX(-50%);
 }
 
 .linear-algebra-demo__image-card--j {
