@@ -44,6 +44,13 @@ A curated list of representative publications. For the full list, please see my 
 
 
 <div class="pub-item">
+  <div class="pub-title">Neural Operator-Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images</div>
+  <div class="pub-authors">Wen-Jie Zheng, <strong>Xi-Le Zhao</strong>, Yu-Bang Zheng, Teng-Yu Ji</div>
+  <div class="pub-venue"><strong><em>IEEE Trans. Geosci. Remote Sens.</em></strong></div>
+</div>
+
+
+<div class="pub-item">
   <div class="pub-title">Empowering Tensor Network Decompositions by Nonlinear and Incompatible Tensor Contraction</div>
   <div class="pub-authors">Sheng Liu, <strong>Xi-Le Zhao</strong>, Qin Jiang, Michael K. Ng</div>
   <div class="pub-venue"><strong><em>SIAM Journal on Imaging Sciences</em></strong></div>
