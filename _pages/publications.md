@@ -38,8 +38,8 @@ A curated list of representative publications. For the full list, please see my 
 
 <div class="pub-item">
   <div class="pub-title">Neural Operator-Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images</div>
-  <div class="pub-authors">Wen-Jie Zheng, <strong>Xi-Le Zhao</strong>, Yu-Bang Zheng, Teng-Yu Ji</div>
-  <div class="pub-venue"><strong><em>IEEE Trans. Geosci. Remote Sens.</em></strong></div>
+  <div class="pub-authors">Yu-Bang Zheng, <strong>Xi-Le Zhao</strong>, Heng-Chao Li, Junhua Zeng, Chao Li, Qibin Zhao, Ting-Zhu Huang, Qing Zhu</div>
+  <div class="pub-venue"><strong><em>IEEE Trans. Pattern Anal. Mach. Intell.</em></strong></div>
 </div>
 
 
