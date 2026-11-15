@@ -39,7 +39,7 @@ A curated list of representative publications. For the full list, please see my 
 <div class="pub-item">
   <div class="pub-title">A Structure-Revealing Tensor Network Paradigm and Its Applications</div>
   <div class="pub-authors">Yu-Bang Zheng, <strong>Xi-Le Zhao</strong>, Heng-Chao Li, Junhua Zeng, Chao Li, Qibin Zhao, Ting-Zhu Huang, Qing Zhu</div>
-  <div class="pub-venue"><strong><em>IEEE Trans. Pattern Anal. Mach. Intell.</em></strong></div>
+  <div class="pub-venue"><strong><em>IEEE Trans. Pattern Anal. Mach. Intell.</em></strong> <a href="https://yubangzheng.github.io/codes/code_SVDinsTN_Python.ziphttps://yubangzheng.github.io/codes/code_SVDinsTN_Python.zip" target="_blank" rel="noopener noreferrer"><span class="pub-badge pub-badge--code">PyTorch Code</span></a></div>
 </div>
 
 
